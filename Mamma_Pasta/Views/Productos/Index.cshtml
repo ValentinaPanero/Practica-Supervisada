@@ -1,0 +1,95 @@
+﻿@model Mamma_Pasta.Models.vmProductos
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Productos</h1>
+
+<table class="table margin-top: 15px">
+    <tr>
+        <td>
+            <a asp-action="Create" class="btn btn-warning">Nuevo Producto</a>
+            <a class="btn btn-warning" asp-area="" asp-controller="TipoProductos" asp-action="Index">Tipo de productos</a>
+        </td>
+        <td>
+            <form asp-action="Index" method="get" class="d-flex align-items-center">
+                <input placeholder="Filtrar por Nombre de producto" type="text" name="BusqNombre" class="form-control" />
+                <input type="submit" value="Filtrar" class="btn btn-warning" />
+            </form>
+        </td>
+        <td>
+            <form asp-action="Index" method="get" class="d-flex align-items-center">
+                <select name="TipoProductoId" asp-items="ViewBag.TipoProductoId" class="form-control">
+                    <option value="" disabled selected>Filtrar por tipo de producto</option>
+                </select>
+                <input type="submit" value="Filtrar" class="btn btn-warning" />
+            </form>
+        </td>
+    </tr>
+</table>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().tipoProductos.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Imagen)
+            </th>            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+            @if (Model.ListProductos != null && Model.ListProductos.Count > 0)
+            {
+                @foreach (var item in Model.ListProductos)
+                {
+                <tr>
+                    <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td style="max-width: 250px">
+                            @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                            @Html.DisplayFor(modelItem => item.tipoProductos.Tipo)
+                    </td>
+                    <td>
+                            @Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                    <td>
+                            @if (!string.IsNullOrEmpty(@item.Imagen))
+                            {
+                            <img src="~/Imagenes/Productos/@item.Imagen" style="max-width:100px" />
+                            }
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Detalles</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Borrar</a>
+                    </td>
+                </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">
+                        <h4>No existen datos segun filtros</h4>
+                    </td>
+                </tr>
+            }
+    </tbody>
+</table>
+
+<partial name="_Paginador" for="@Model.paginadorVM" />

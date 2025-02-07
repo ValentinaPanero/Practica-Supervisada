@@ -1,0 +1,65 @@
+﻿@model Mamma_Pasta.Models.vmVentas
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles</h1>
+<br />
+<div>
+    <h4>Venta</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ventas.Fecha)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ventas.Fecha)
+        </dd>
+    </dl>
+</div>
+<div>
+    @if (Model.RenglonesVentas != null && Model.RenglonesVentas.Any())
+    {
+        <h4>Productos Vendidos</h4>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio Unitario</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var renglon in Model.RenglonesVentas)
+                {
+                    <tr>
+                        <td>
+                            @renglon.Productos?.Nombre
+                        </td>
+                        <td>
+                            @renglon.Cantidad
+                        </td>
+                        <td>
+                            @renglon.Precio.ToString("C") <!-- Muestra el precio en formato de moneda -->
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2" class="text-end"><strong>Total Venta:</strong></td>
+                    <td><strong>@Model.RenglonesVentas.Sum(r => r.Cantidad * r.Precio).ToString("C")</strong></td>
+                </tr>
+            </tfoot>
+        </table>
+    }
+    else
+    {
+        <p>No hay productos en esta venta.</p>
+    }
+</div>
+<div style="margin-top: 15px">
+    <a asp-action="Index" class="btn btn-warning">Volver a la lista</a>
+</div>

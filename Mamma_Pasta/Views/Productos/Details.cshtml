@@ -1,0 +1,53 @@
+﻿@model Mamma_Pasta.Models.Producto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalles</h1>
+
+<br />
+<h4>Producto</h4>
+<div class="d-flex">
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.tipoProductos.Tipo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.tipoProductos.Tipo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+    </dl>
+
+    <input type="hidden" asp-for="Imagen" />
+    @if (!string.IsNullOrEmpty(Model.Imagen))
+    {
+        <div class="me-3">
+            <img src="~/Imagenes/Productos/@Model.Imagen" style="max-width:300px" />
+        </div>
+    }
+
+</div>
+<div style="margin-top: 15px">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning">Editar</a> |
+    <a asp-action="Index" class="btn btn-warning">Volver a la lista</a>
+</div>
+

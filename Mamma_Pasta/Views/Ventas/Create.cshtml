@@ -1,0 +1,200 @@
+﻿@model Mamma_Pasta.Models.vmVentas
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear</h1>
+<br />
+<h4>Venta</h4>
+<hr />
+<div class="row">
+
+
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ventas.Fecha" class="control-label"></label>
+
+                <!-- Contenedor flex para alinear fecha y botón -->
+                <div class="d-flex align-items-center">
+                    <input asp-for="Ventas.Fecha" class="form-control me-2" style="max-width: 200px;" />
+                    <input type="submit" value="Crear" class="btn btn-warning flex-grow-1" style="margin-left: 150px" />
+                </div>
+                <span asp-validation-for="Ventas.Fecha" class="text-danger"></span>
+
+                <input type="hidden" id="productosSeleccionados" name="productosSeleccionados" />
+            </div>
+
+
+            <hr />
+            <div id="renglones-container">
+
+                <div class="mb-3">
+                    <label class="form-label">Filtrar por Tipo de Producto:</label>
+                    <div class="d-flex flex-wrap gap-2">
+                        <button type="button" class="btn btn-warning" onclick="filtrarProductos()">Todos</button>
+                        @foreach (var tipo in ViewBag.TiposProducto)
+                        {
+                            <button type="button" class="btn @(ViewBag.TipoSeleccionado == tipo.Id ? "btn-primary" : "btn-secondary")"
+                                    onclick="filtrarProductos(@tipo.Id)">
+                                @tipo.Tipo
+                            </button>
+                        }
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <label class="control-label">Producto</label>
+                        <!-- Mostrar productos como botones -->
+                        <div class="row row-cols-2 row-cols-md-4 g-3">
+                            @foreach (var producto in ViewBag.Productos)
+                            {
+                                <div class="col d-flex">
+                                    <button type="button" class="btn btn-warning btn-producto w-100" data-producto-id="@producto.Id"
+                                            data-producto-nombre="@producto.Nombre"
+                                            data-producto-precio="@producto.Precio">
+                                        @producto.Nombre
+                                    </button>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" id="productosSeleccionados" name="productosSeleccionados" />
+            <div class="form-group" style="margin-top: 30px">
+                <input type="submit" value="Crear" class="btn btn-warning" />
+            </div>
+        </form>
+    </div>
+    <!-- Contenedor para mostrar los productos seleccionados -->
+    <div class="col-md-6">
+        <h5>Productos Seleccionados</h5>
+        <table class="table table-bordered" id="tablaProductosSeleccionados">
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Subtotal</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody id="tablaProductosBody">
+                <!-- Aquí se irán agregando los productos seleccionados -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+
+        // Asegurar que productosSeleccionados sea un array
+        let productosSeleccionados = JSON.parse(localStorage.getItem("productosSeleccionados")) || [];
+
+        if (!Array.isArray(productosSeleccionados)) {
+            productosSeleccionados = [];
+        }
+
+        function filtrarProductos(tipoProductoId) {
+            localStorage.setItem("productosSeleccionados", JSON.stringify(productosSeleccionados)); // Guardar productos antes de filtrar
+            const baseUrl = window.location.pathname;
+            const url = tipoProductoId ? `${baseUrl}?tipoProductoId=${tipoProductoId}` : baseUrl;
+            window.location.href = url; // Recargar con el nuevo filtro
+        }
+
+        $(document).ready(function () {
+            // Restaurar productos al recargar la página
+            productosSeleccionados = JSON.parse(localStorage.getItem("productosSeleccionados")) || [];
+
+            if (!Array.isArray(productosSeleccionados)) {
+                productosSeleccionados = [];
+            }
+
+            actualizarTablaProductosSeleccionados();
+
+            // Evento de clic en los botones de producto
+            $(".btn-producto").click(function () {
+                let id = $(this).data("producto-id");
+                let nombre = $(this).data("producto-nombre");
+                let precio = parseFloat($(this).data("producto-precio"));
+
+                let productoExistente = productosSeleccionados.find(p => p.id === id);
+
+                if (productoExistente) {
+                    productoExistente.cantidad++;
+                    productoExistente.subtotal = productoExistente.cantidad * productoExistente.precio;
+                } else {
+                    productosSeleccionados.push({
+                        id: id,
+                        nombre: nombre,
+                        precio: precio,
+                        cantidad: 1,
+                        subtotal: precio
+                    });
+                }
+
+                localStorage.setItem("productosSeleccionados", JSON.stringify(productosSeleccionados));
+                actualizarTablaProductosSeleccionados();
+            });
+
+            function actualizarTablaProductosSeleccionados() {
+                let total = 0;
+                let html = "";
+                $("#tablaProductosBody").empty();
+
+                productosSeleccionados.forEach((producto, index) => {
+                    html += `
+                        <tr>
+                            <td>${producto.nombre}</td>
+                            <td>${producto.cantidad}</td>
+                            <td>$${producto.subtotal.toFixed(2)}</td>
+                            <td>
+                                <button type="button" class="btn btn-secondary btn-sm" onclick="restarCantidad(${index})">-</button>
+                                <button type="button" class="btn btn-secondary btn-sm" onclick="sumarCantidad(${index})">+</button>
+                                <button type="button" class="btn btn-danger btn-sm" onclick="eliminarProducto(${index})">Eliminar</button>
+                            </td>
+                        </tr>`;
+                    total += producto.subtotal;
+                });
+
+                html += `<tr><td colspan="2" class="text-right">Total</td><td>$${total.toFixed(2)}</td><td></td></tr>`;
+                $("#tablaProductosBody").html(html);
+            }
+
+            window.eliminarProducto = function (index) {
+                productosSeleccionados.splice(index, 1);
+                localStorage.setItem("productosSeleccionados", JSON.stringify(productosSeleccionados));
+                actualizarTablaProductosSeleccionados();
+            };
+
+            window.sumarCantidad = function (index) {
+                productosSeleccionados[index].cantidad++;
+                productosSeleccionados[index].subtotal = productosSeleccionados[index].cantidad * productosSeleccionados[index].precio;
+                localStorage.setItem("productosSeleccionados", JSON.stringify(productosSeleccionados));
+                actualizarTablaProductosSeleccionados();
+            };
+
+            window.restarCantidad = function (index) {
+                if (productosSeleccionados[index].cantidad > 1) {
+                    productosSeleccionados[index].cantidad--;
+                    productosSeleccionados[index].subtotal = productosSeleccionados[index].cantidad * productosSeleccionados[index].precio;
+                    localStorage.setItem("productosSeleccionados", JSON.stringify(productosSeleccionados));
+                    actualizarTablaProductosSeleccionados();
+                }
+            };
+
+            $("form").submit(function () {
+                $("#productosSeleccionados").val(JSON.stringify(productosSeleccionados));
+                localStorage.removeItem("productosSeleccionados");
+            });
+        });
+    </script>
+
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Mamma_Pasta.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Mamma_Pasta.5h44tqemki.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\logo.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Icons\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\logo_mamma_pasta.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Icons\\logo_mamma_pasta.png"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de ternera y espinaca.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\C. de ternera y espinaca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Chocolina.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Chocolina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Cuatro quesos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Jamon cocido y queso.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Jamon cocido y queso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Lasagna.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Lasagna.png"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Morron.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Morron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\P. de Ternera y Espinaca.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\P. de Ternera y Espinaca.png"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pavita y hongos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pollo y verduras.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pollo y verduras.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Postre oreo.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Postre oreo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ricota y nuez.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. al huevo.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\T. al huevo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Espinaca.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\T. de Espinaca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Morron.webp",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\T. de Morron.webp"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y espinaca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Tiramisu.jpeg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Tiramisu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Turron de quaker.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Turron de quaker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ñoquis.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ñoquis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0da45f8865114e77b16e81d81f7bca15.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\0da45f8865114e77b16e81d81f7bca15.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0eb1b9f8d6e14ef4a101573e215b7179.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\0eb1b9f8d6e14ef4a101573e215b7179.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0f21f9843f5049af8fd3ef3c85a49b67.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\0f21f9843f5049af8fd3ef3c85a49b67.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\19c717db1aa24b0fa17cb329d49d14e1.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\19c717db1aa24b0fa17cb329d49d14e1.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\2afcffe3357b458fb481a3f5a70e519a.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\2afcffe3357b458fb481a3f5a70e519a.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\3daea7b3619b4c9b8a6edd1887fa01d8.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\3daea7b3619b4c9b8a6edd1887fa01d8.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\3f2aa4a2cd3e4eefa7413bd6e897b8a8.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\3f2aa4a2cd3e4eefa7413bd6e897b8a8.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\40e8e2d25f4f45e88d3ad0d09c7a93f2.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\40e8e2d25f4f45e88d3ad0d09c7a93f2.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\5ed416456319405190a140816a44af18.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\5ed416456319405190a140816a44af18.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\8a29fd3bb2eb492483dfe9d773c20771.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\8a29fd3bb2eb492483dfe9d773c20771.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\963042016e0545bdb0b292acb18afbab.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\963042016e0545bdb0b292acb18afbab.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\9c1dd0d10220434aa6b6d8e1ab98d6c0.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\9c1dd0d10220434aa6b6d8e1ab98d6c0.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\9f6353ee0d7c4facb53acf18501b4d8a.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\9f6353ee0d7c4facb53acf18501b4d8a.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\aaa35b5c7c544ba28117c9b2d737cf72.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\aaa35b5c7c544ba28117c9b2d737cf72.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\b96670d5cc4b4169970e9f9be53c39e1.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\b96670d5cc4b4169970e9f9be53c39e1.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\cfcedf33dafb404ebe5740d80ae2cebd.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\cfcedf33dafb404ebe5740d80ae2cebd.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\e5fdf429b7d544e4936bc71e87cac3ec.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\e5fdf429b7d544e4936bc71e87cac3ec.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\e8d3daa8e9ed46fbb4f9034a7e84aa5c.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\e8d3daa8e9ed46fbb4f9034a7e84aa5c.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\fc2d9669b63142e19467b3b7f7a5ddf5.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\fc2d9669b63142e19467b3b7f7a5ddf5.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Mamma_Pasta.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Mamma_Pasta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Mamma_Pasta.props",
+      "PackagePath": "build\\Mamma_Pasta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Mamma_Pasta.props",
+      "PackagePath": "buildMultiTargeting\\Mamma_Pasta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Mamma_Pasta.props",
+      "PackagePath": "buildTransitive\\Mamma_Pasta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

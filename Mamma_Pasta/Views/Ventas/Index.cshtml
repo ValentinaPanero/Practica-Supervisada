@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Mamma_Pasta.Models.Venta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Ventas</h1>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <a asp-action="Create" class="btn btn-warning">Nueva Venta</a>
+
+    <form method="get" class="d-flex align-items-center">
+        <div class="me-3">
+            <label for="fechaDesde" class="form-label me-2">Desde:</label>
+            <input type="date" name="fechaDesde" id="fechaDesde" class="form-control" value="@ViewData["FechaDesde"]" />
+        </div>
+        <div class="me-3">
+            <label for="fechaHasta" class="form-label me-2">Hasta:</label>
+            <input type="date" name="fechaHasta" id="fechaHasta" class="form-control" value="@ViewData["FechaHasta"]" />
+        </div>
+        <button type="submit" class="btn btn-warning align-self-end">Filtrar</button>
+    </form>
+</div>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>Total $</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @if (item.RengVentas != null)
+                    {
+                        <b>$ @item.RengVentas.Sum(e => e.Cantidad * e.Precio)</b>
+                    }
+                    else
+                    {
+                        <b>$ 0</b>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
