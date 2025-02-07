@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj": {}
+    "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj": {
+    "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj",
+        "projectUniqueName": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj",
         "projectName": "Mamma_Pasta",
-        "projectPath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj",
+        "projectPath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj",
         "packagesPath": "C:\\Users\\lunal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\obj\\",
+        "outputPath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,7 +9,7 @@
 <table class="table margin-top: 15px">
     <tr>
         <td>
-            <a asp-action="Create" class="btn btn-warning">Nuevo Producto</a>
+            <a asp-action="Create" class="btn btn-warning" title="Ctrl + E">Nuevo Producto</a>
             <a class="btn btn-warning" asp-area="" asp-controller="TipoProductos" asp-action="Index">Tipo de productos</a>
         </td>
         <td>
@@ -91,5 +91,14 @@
             }
     </tbody>
 </table>
+
+<script>
+    document.addEventListener('keydown', function (event) {
+        if (event.ctrlKey && event.key === 'e') {
+            event.preventDefault(); // Evita la acción predeterminada del navegador
+            window.location.href = '@Url.Action("Create", "Productos")'; // Redirige al método Create del controlador Ventas
+        }
+    });
+</script>
 
 <partial name="_Paginador" for="@Model.paginadorVM" />

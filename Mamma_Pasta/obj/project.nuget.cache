@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78tuG4dgys4=",
+  "dgSpecHash": "jD041dzlk0c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj",
+  "projectFilePath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Mamma_Pasta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lunal\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lunal\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
