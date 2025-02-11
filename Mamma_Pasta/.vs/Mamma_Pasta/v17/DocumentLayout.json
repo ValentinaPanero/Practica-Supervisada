@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\tipoproductos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\tipoproductos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\tipoproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\tipoproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37FD3C45-EEAF-46EC-8A3C-2834954F2D6E}|Mamma_Pasta.csproj|c:\\users\\lunal\\desktop\\practica supervisada\\practica-supervisada\\mamma_pasta\\models\\tipodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,41 +71,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T15:23:44.96Z",
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T02:21:36.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Create.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAALYAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T15:18:54.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T15:39:33.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Productos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Productos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwFEAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\TipoProductos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoProductos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\TipoProductos\\Create.cshtml",
+              "RelativeToolTip": "Views\\TipoProductos\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T15:14:49.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T15:39:01.029Z"
             },
             {
               "$type": "Document",
@@ -103,27 +113,61 @@
               "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
               "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Productos\\Index.cshtml",
               "RelativeToolTip": "Views\\Productos\\Index.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T15:12:59.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T15:37:34.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Index.cshtml",
-              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\TipoProductos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoProductos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\TipoProductos\\Index.cshtml",
+              "RelativeToolTip": "Views\\TipoProductos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T14:59:06.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T15:37:20.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:30:37.119Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T15:23:44.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T15:18:54.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TipoDePago.cs",
               "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Models\\TipoDePago.cs",
               "RelativeDocumentMoniker": "Models\\TipoDePago.cs",
@@ -131,12 +175,11 @@
               "RelativeToolTip": "Models\\TipoDePago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:58:07.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T14:58:07.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
@@ -144,8 +187,7 @@
               "RelativeToolTip": "Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:57:58.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T14:57:58.257Z"
             }
           ]
         }

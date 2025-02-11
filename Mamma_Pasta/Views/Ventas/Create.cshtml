@@ -63,10 +63,6 @@
                     </div>
                 </div>
             </div>
-            <input type="hidden" id="productosSeleccionados" name="productosSeleccionados" />
-            <div class="form-group" style="margin-top: 30px">
-                <input type="submit" value="Crear" class="btn btn-warning" />
-            </div>
         </form>
     </div>
     <!-- Contenedor para mostrar los productos seleccionados -->
@@ -142,6 +138,7 @@
                 localStorage.setItem("productosSeleccionados", JSON.stringify(productosSeleccionados));
                 actualizarTablaProductosSeleccionados();
             });
+            
 
             function actualizarTablaProductosSeleccionados() {
                 let total = 0;
@@ -194,6 +191,7 @@
                 localStorage.removeItem("productosSeleccionados");
             });
         });
+
     </script>
 
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
