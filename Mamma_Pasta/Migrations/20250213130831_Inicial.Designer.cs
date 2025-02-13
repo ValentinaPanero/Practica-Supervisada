@@ -9,10 +9,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Mamma_Pasta.Data.Migrations
+namespace Mamma_Pasta.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250207123456_Inicial")]
+    [Migration("20250213130831_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />
@@ -24,6 +24,33 @@ namespace Mamma_Pasta.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("Mamma_Pasta.Models.Cliente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Direccion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Telefono")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TipoDePagoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("TipoDePagoId");
+
+                    b.ToTable("Clientes");
+                });
 
             modelBuilder.Entity("Mamma_Pasta.Models.Producto", b =>
                 {
@@ -88,6 +115,22 @@ namespace Mamma_Pasta.Data.Migrations
                     b.ToTable("renglonesVentas");
                 });
 
+            modelBuilder.Entity("Mamma_Pasta.Models.TipoDePago", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Tipo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TiposDePago");
+                });
+
             modelBuilder.Entity("Mamma_Pasta.Models.TipoProducto", b =>
                 {
                     b.Property<int>("Id")
@@ -112,6 +155,9 @@ namespace Mamma_Pasta.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int>("ClienteId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("Fecha")
                         .HasColumnType("datetime2");
 
@@ -119,6 +165,8 @@ namespace Mamma_Pasta.Data.Migrations
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ClienteId");
 
                     b.ToTable("Ventas");
                 });
@@ -325,6 +373,17 @@ namespace Mamma_Pasta.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Mamma_Pasta.Models.Cliente", b =>
+                {
+                    b.HasOne("Mamma_Pasta.Models.TipoDePago", "TiposDePago")
+                        .WithMany("Clientes")
+                        .HasForeignKey("TipoDePagoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("TiposDePago");
+                });
+
             modelBuilder.Entity("Mamma_Pasta.Models.Producto", b =>
                 {
                     b.HasOne("Mamma_Pasta.Models.TipoProducto", "tipoProductos")
@@ -349,6 +408,17 @@ namespace Mamma_Pasta.Data.Migrations
                     b.Navigation("Productos");
 
                     b.Navigation("Ventas");
+                });
+
+            modelBuilder.Entity("Mamma_Pasta.Models.Venta", b =>
+                {
+                    b.HasOne("Mamma_Pasta.Models.Cliente", "Clientes")
+                        .WithMany()
+                        .HasForeignKey("ClienteId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Clientes");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -400,6 +470,11 @@ namespace Mamma_Pasta.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Mamma_Pasta.Models.TipoDePago", b =>
+                {
+                    b.Navigation("Clientes");
                 });
 
             modelBuilder.Entity("Mamma_Pasta.Models.TipoProducto", b =>

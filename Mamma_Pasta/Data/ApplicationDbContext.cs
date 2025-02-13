@@ -14,5 +14,7 @@ namespace Mamma_Pasta.Data
         public DbSet<TipoProducto> TiposProductos { get; set; }
         public DbSet<Venta> Ventas { get; set; }
         public DbSet<RenglonVenta> renglonesVentas { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<TipoDePago> TiposDePago { get; set; }
     }
 }

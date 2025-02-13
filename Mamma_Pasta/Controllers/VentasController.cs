@@ -25,6 +25,7 @@ namespace Mamma_Pasta.Controllers
         {
             var ventas = _context.Ventas
                           .Include(v => v.RengVentas)
+                          .Where(v => v.Activo) // Filtrar solo ventas activas
                           .AsQueryable();
 
             // Aplicar filtro por fechas si están presentes
@@ -45,6 +46,36 @@ namespace Mamma_Pasta.Controllers
 
             return View(listaVentas);
         }
+        public async Task<IActionResult> VentasEliminadas()
+        {
+            var ventas = await _context.Ventas
+                .Where(v => !v.Activo) // Filtrar solo las ventas eliminadas
+                .Include(v => v.RengVentas)
+                .Include(v => v.Clientes) // Incluir el cliente
+                .OrderByDescending(v => v.Fecha)
+                .ToListAsync();
+
+            return View(ventas);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RestaurarVenta(int id)
+        {
+            var venta = await _context.Ventas.FindAsync(id);
+            if (venta == null)
+            {
+                return NotFound();
+            }
+
+            // Restaurar la venta cambiando Activo a true
+            venta.Activo = true;
+            _context.Ventas.Update(venta);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(VentasEliminadas));
+        }
+
 
         // GET: Ventas/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -57,6 +88,8 @@ namespace Mamma_Pasta.Controllers
             var venta = await _context.Ventas
             .Include(v => v.RengVentas)
             .ThenInclude(r => r.Productos)
+            .Include(v => v.Clientes) // Incluir el cliente
+            .ThenInclude(c => c.TiposDePago) // Incluir el tipo de pago del cliente
             .FirstOrDefaultAsync(m => m.Id == id);
 
             if (venta == null)
@@ -66,7 +99,8 @@ namespace Mamma_Pasta.Controllers
             var vm = new vmVentas
             {
                 Ventas = venta,
-                RenglonesVentas = venta.RengVentas.ToList()
+                RenglonesVentas = venta.RengVentas.ToList(),
+                Clientes = venta.Clientes // Asignar cliente a la vista modelo
             };
 
             return View(vm);
@@ -83,6 +117,9 @@ namespace Mamma_Pasta.Controllers
 
             // Lista de tipos de productos
             ViewBag.TiposProducto = _context.TiposProductos.ToList();
+
+            // Cargar la lista de clientes disponibles
+            ViewBag.Clientes = new SelectList(_context.Clientes, "Id", "Nombre");
 
             // Filtrar productos según el tipo seleccionado
             var productos = _context.Productos.AsQueryable();
@@ -101,9 +138,10 @@ namespace Mamma_Pasta.Controllers
                 p.Precio
             }).ToList();
 
+            
             // Mantener el tipo seleccionado en la vista
             ViewBag.TipoSeleccionado = tipoProductoId;
-
+            
             return View(vm);
         }
 
@@ -125,18 +163,28 @@ namespace Mamma_Pasta.Controllers
 
                     if (renglones != null && renglones.Any())
                     {
+                        // Obtener el cliente desde la base de datos
+                        var cliente = await _context.Clientes.FindAsync(vm.clienteId);
+                        if (cliente == null)
+                        {
+                            ModelState.AddModelError("", "El cliente seleccionado no es válido.");
+                            return View(vm);
+                        }
+
                         // Crear la venta con sus renglones
                         var venta = new Venta
                         {
-                            Fecha = vm.Ventas.Fecha,
+                            Fecha = vm.Ventas.Fecha,                           
                             Total = renglones.Sum(r => r.Subtotal),
+                            ClienteId = vm.clienteId,  // Asociar ClienteId
+                            Clientes = cliente,         // Asociar el objeto Cliente
                             RengVentas = renglones.Select(r => new RenglonVenta
                             {
                                 ProductoId = r.Id, // Asegúrate de que se asigna correctamente el ID del producto
                                 Cantidad = r.Cantidad,
                                 Precio = r.Precio,
                                 Subtotal = r.Subtotal,
-                                Productos = _context.Productos.FirstOrDefault(p => p.Id == r.Id) // Cargar el producto asociado
+                                Productos = _context.Productos.FirstOrDefault(p => p.Id == r.Id), // Cargar el producto asociado                          
                             }).ToList()
                         };
 
@@ -154,6 +202,7 @@ namespace Mamma_Pasta.Controllers
 
             ViewBag.Productos = _context.Productos.ToList();
             ViewData["IdProducto"] = new SelectList(_context.Productos, "Id", "Nombre", vm.Productos?.Id);
+            ViewData["ClienteId"] = new SelectList(_context.Clientes, "Id", "Nombre", vm.clienteId);
             return View(vm);
         }
 
@@ -269,15 +318,16 @@ namespace Mamma_Pasta.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var venta = await _context.Ventas
-            .Include(v => v.RengVentas) // Incluye los renglones para eliminarlos también si es necesario
-            .FirstOrDefaultAsync(m => m.Id == id);
-            if (venta != null)
+            var venta = await _context.Ventas.FindAsync(id);
+            if (venta == null)
             {
-                _context.renglonesVentas.RemoveRange(venta.RengVentas); // Elimina renglones asociados
-                _context.Ventas.Remove(venta); // Elimina la venta
-                await _context.SaveChangesAsync();
+                return NotFound();
             }
+
+            // Marcar la venta como inactiva en lugar de eliminarla
+            venta.Activo = false;
+            _context.Ventas.Update(venta);
+            await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
         }
