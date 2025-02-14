@@ -7,7 +7,7 @@
 <h1>Tipo de Productos</h1>
 
 <p style="margin-top: 15px">
-    <a asp-action="Create" class="btn btn-warning" title="Ctrl + E">Nuevo</a>
+    <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nuevo</a>
 </p>
 <table class="table">
     <thead>
@@ -36,7 +36,7 @@
 
 <script>
     document.addEventListener('keydown', function (event) {
-        if (event.ctrlKey && event.key === 'e') {
+        if (event.altKey && event.key === 'e') {
             event.preventDefault(); // Evita la acción predeterminada del navegador
             window.location.href = '@Url.Action("Create", "TipoProductos")'; // Redirige al método Create del controlador Ventas
         }

@@ -18,6 +18,19 @@
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.Ventas.Fecha)
         </dd>
+        <dt class="col-sm-2">
+            Cliente
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Clientes?.Nombre
+        </dd>
+
+        <dt class="col-sm-2">
+            Tipo de Pago
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Clientes?.TiposDePago?.Tipo
+        </dd>
     </dl>
     <div>
         @if (Model.RenglonesVentas != null && Model.RenglonesVentas.Any())

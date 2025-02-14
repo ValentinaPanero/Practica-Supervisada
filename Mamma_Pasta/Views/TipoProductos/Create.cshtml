@@ -10,14 +10,10 @@
 <hr />
 
 <div class="container">
-    <div class="row d-flex justify-content-center">
+    <div class="row d-flex justify-content-center align-items-center">
         <div class="col-md-6">
-           
-
             <form asp-action="Create">
-                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
-
-                <!-- Campo para el nombre del tipo de producto -->
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>             
                 <div class="row mb-3">
                     <label asp-for="Tipo" class="col-sm-3 col-form-label">Nombre del Tipo:</label>
                     <div class="col-sm-9">
@@ -25,8 +21,6 @@
                         <span asp-validation-for="Tipo" class="text-danger"></span>
                     </div>                    
                 </div>
-
-                <!-- Botón de envío -->
                 <div class="d-grid">
                     <button type="submit" class="btn btn-warning btn-block">Crear</button>
                 </div>

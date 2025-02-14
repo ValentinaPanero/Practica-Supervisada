@@ -10912,7 +10912,7 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Ternera y espinaca.0134jz3ihz.jpg",
+      "Route": "Imagenes/Productos/Ternera y espinaca.jksxy9tt3l.jpg",
       "AssetFile": "Imagenes/Productos/Ternera y espinaca.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10926,7 +10926,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32647"
+          "Value": "160590"
         },
         {
           "Name": "Content-Type",
@@ -10934,21 +10934,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
+          "Value": "\"HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:50 GMT"
+          "Value": "Fri, 14 Feb 2025 12:41:34 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0134jz3ihz"
+          "Value": "jksxy9tt3l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
+          "Value": "sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="
         },
         {
           "Name": "label",
@@ -10971,7 +10971,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "32647"
+          "Value": "160590"
         },
         {
           "Name": "Content-Type",
@@ -10979,17 +10979,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
+          "Value": "\"HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:50 GMT"
+          "Value": "Fri, 14 Feb 2025 12:41:34 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
+          "Value": "sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="
         }
       ]
     },

@@ -372,17 +372,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:24:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.0134jz3ihz.jpg">
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jksxy9tt3l.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0134jz3ihz"},{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:03:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jksxy9tt3l"},{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 12:41:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:03:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 12:41:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Tiramisu.1zhede5zo9.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Tiramisu.jpeg'))</AssetFile>

@@ -232,6 +232,11 @@ namespace Mamma_Pasta.Controllers
                 try
                 {
                     var archivos = HttpContext.Request.Form.Files;
+                    string imagenAnterior = await _context.Productos
+                        .Where(p => p.Id == producto.Id)
+                        .Select(p => p.Imagen)
+                        .FirstOrDefaultAsync();
+
                     if (archivos != null && archivos.Count > 0)
                     {
                         var archivoImagen = archivos[0];
@@ -240,22 +245,27 @@ namespace Mamma_Pasta.Controllers
                             var rutaDestino = Path.Combine(_env.WebRootPath, "Imagenes", "Productos");
                             var extension = Path.GetExtension(archivoImagen.FileName);
                             var archivoDestino = producto.Nombre.ToString() + extension;
-                            //var archivoDestino = Guid.NewGuid().ToString().Replace("-", "") + extension; //NOMBRE ALEATORIO
 
                             using (var filestream = new FileStream(Path.Combine(rutaDestino, archivoDestino), FileMode.Create))
                             {
                                 archivoImagen.CopyTo(filestream);
 
-                                if (!string.IsNullOrEmpty(producto.Imagen))
+                                // Eliminar la imagen anterior si existía
+                                if (!string.IsNullOrEmpty(imagenAnterior))
                                 {
-                                    string fotoAnterior = Path.Combine(rutaDestino, producto.Imagen);
+                                    string fotoAnterior = Path.Combine(rutaDestino, imagenAnterior);
                                     if (System.IO.File.Exists(fotoAnterior))
-                                        System.IO.File.Delete(Path.Combine(rutaDestino, producto.Imagen));
-
+                                        System.IO.File.Delete(fotoAnterior);
                                 }
+
                                 producto.Imagen = archivoDestino;
                             }
                         }
+                    }
+                    else
+                    {
+                        // Si no se subió una nueva imagen, conservar la anterior
+                        producto.Imagen = imagenAnterior;
                     }
 
                     _context.Update(producto);

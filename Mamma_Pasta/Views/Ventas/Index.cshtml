@@ -7,8 +7,8 @@
 <h1>Ventas</h1>
 
 <div class="d-flex justify-content-between align-items-center mb-3">
-    <a asp-action="Create" class="btn btn-warning" title="Ctrl + E">Nueva Venta</a>
-    <a asp-controller="Ventas" asp-action="VentasEliminadas" class="btn btn-secondary">Ver Ventas Eliminadas</a>
+    <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nueva Venta</a>
+    <a asp-controller="Ventas" asp-action="VentasEliminadas" class="btn btn-secondary">Ventas Eliminadas</a>
 
 
     <form method="get" class="d-flex align-items-center">
@@ -64,7 +64,7 @@
 
 <script>
     document.addEventListener('keydown', function (event) {
-        if (event.ctrlKey && event.key === 'e') {
+        if (event.altKey && event.key === 'e') {
             event.preventDefault(); // Evita la acción predeterminada del navegador
             window.location.href = '@Url.Action("Create", "Ventas")'; // Redirige al método Create del controlador Ventas
         }

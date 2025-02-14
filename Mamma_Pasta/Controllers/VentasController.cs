@@ -298,6 +298,8 @@ namespace Mamma_Pasta.Controllers
 
             var venta = await _context.Ventas.Include(v => v.RengVentas)
            .ThenInclude(r => r.Productos)
+           .Include(v => v.Clientes) // Incluir cliente
+           .ThenInclude(c => c.TiposDePago) // Incluir tipo de pago
            .FirstOrDefaultAsync(m => m.Id == id);
             if (venta == null)
             {
@@ -306,7 +308,8 @@ namespace Mamma_Pasta.Controllers
             var vm = new vmVentas
             {
                 Ventas = venta,
-                RenglonesVentas = venta.RengVentas.ToList()
+                RenglonesVentas = venta.RengVentas.ToList(),
+                Clientes = venta.Clientes // Asignar cliente a la vista modelo
             };
 
 

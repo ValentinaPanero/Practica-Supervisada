@@ -570,8 +570,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0134jz3ihz</Fingerprint>
-      <Integrity>rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=</Integrity>
+      <Fingerprint>jksxy9tt3l</Fingerprint>
+      <Integrity>HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca.jpg'))</OriginalItemSpec>

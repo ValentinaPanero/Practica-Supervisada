@@ -4,10 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Clientes</h1>
 
 <p>
-    <a asp-action="Create" class="btn btn-warning" title="Ctrl + E">Nuevo Cliente</a>
+    <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nuevo Cliente</a>
     <a class="btn btn-warning" asp-area="" asp-controller="TipoDePagos" asp-action="Index">Tipos de Pago</a>
 </p>
 <table class="table">
@@ -29,26 +29,35 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Telefono)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Direccion)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TiposDePago.Tipo)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telefono)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Direccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TiposDePago.Tipo)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Borrar</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+<script>
+    document.addEventListener('keydown', function (event) {
+        if (event.altKey && event.key === 'e') {
+            event.preventDefault(); // Evita la acción predeterminada del navegador
+            window.location.href = '@Url.Action("Create", "Clientes")'; // Redirige al método Create del controlador Ventas
+        }
+    });
+</script>
