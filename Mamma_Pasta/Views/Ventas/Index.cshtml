@@ -8,9 +8,6 @@
 
 <div class="d-flex justify-content-between align-items-center mb-3">
     <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nueva Venta</a>
-    <a asp-controller="Ventas" asp-action="VentasEliminadas" class="btn btn-secondary">Ventas Eliminadas</a>
-
-
     <form method="get" class="d-flex align-items-center">
         <div class="me-3">
             <label for="fechaDesde" class="form-label me-2">Desde:</label>
@@ -22,6 +19,7 @@
         </div>
         <button type="submit" class="btn btn-warning align-self-end">Filtrar</button>
     </form>
+    <a asp-controller="Ventas" asp-action="VentasEliminadas" class="btn btn-secondary">Ventas Eliminadas</a>
 </div>
 
 

@@ -1,0 +1,42 @@
+﻿@model List<Producto>
+
+<h2>Productos Eliminados</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Tipo</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+            <th>Imagen</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producto in Model)
+        {
+            <tr>
+                <td>@producto.Id</td>
+                <td>@producto.Nombre</td>
+                <td>@producto.tipoProductos?.Tipo</td>
+                <th>@producto.Descripcion</th>
+                <td>@producto.Precio</td>
+                <td>@producto.Imagen</td>
+                <td>
+                    <div class="d-flex gap-2">
+                        <a asp-action="Details" asp-route-id="@producto.Id" class="btn btn-warning">Detalles</a> |
+                        <form asp-action="RestaurarProducto" asp-route-id="@producto.Id" method="post">
+                            <button type="submit" class="btn btn-success">Restaurar</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index" class="btn btn-warning" style="margin-top:50px">Volver a la lista</a>
+</div>
+

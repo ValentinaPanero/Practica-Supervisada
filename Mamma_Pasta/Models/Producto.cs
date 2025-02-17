@@ -11,5 +11,6 @@ namespace Mamma_Pasta.Models
         public decimal Precio { get; set; }
         public string? Imagen { get; set; }
         public TipoProducto? tipoProductos { get; set; }
+        public bool Activo { get; set; } = true;
     }
 }

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Mamma_Pasta.Data;
 using Mamma_Pasta.Models;
+using Mamma_Pasta.Migrations;
 
 namespace Mamma_Pasta.Controllers
 {
@@ -22,8 +23,38 @@ namespace Mamma_Pasta.Controllers
         // GET: Clientes
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Clientes.Include(c => c.TiposDePago);
-            return View(await applicationDbContext.ToListAsync());
+            var clientes = _context.Clientes
+                .Include(c => c.TiposDePago)
+                .Where(v => v.Activo)
+                .AsQueryable();
+            return View(clientes);
+        }
+        public async Task<IActionResult> ClientesEliminados()
+        {
+            var clientes = await _context.Clientes
+                .Where(v => !v.Activo)
+                .OrderBy(v => v.Nombre)
+                .ToListAsync();
+
+            return View(clientes);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RestaurarCliente(int id)
+        {
+            var cliente = await _context.Clientes.FindAsync(id);
+            if (cliente == null)
+            {
+                return NotFound();
+            }
+
+            // Restaurar la venta cambiando Activo a true
+            cliente.Activo = true;
+            _context.Clientes.Update(cliente);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(ClientesEliminados));
         }
 
         // GET: Clientes/Details/5
@@ -147,12 +178,14 @@ namespace Mamma_Pasta.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var cliente = await _context.Clientes.FindAsync(id);
-            if (cliente != null)
+            if (cliente == null)
             {
-                _context.Clientes.Remove(cliente);
+                return NotFound();
             }
-
+            cliente.Activo = false;
+            _context.Clientes.Update(cliente);
             await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
 

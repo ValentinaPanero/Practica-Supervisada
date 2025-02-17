@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using Mamma_Pasta.Data;
 using Mamma_Pasta.Models;
 using Microsoft.AspNetCore.Authorization;
+using AspNetCoreGeneratedDocument;
+using Mamma_Pasta.Migrations;
 
 namespace Mamma_Pasta.Controllers
 {
@@ -25,14 +27,22 @@ namespace Mamma_Pasta.Controllers
         // GET: Productos
         public async Task<IActionResult> Index(string BusqNombre, int? TipoProductoId, int pagina = 1)
         {
+
             Paginador paginador = new Paginador
             {
                 paginaActual = pagina,
                 cantRegistrosPagina = 10,
             };
 
-            var producto = _context.Productos.Include(e => e.tipoProductos).Select(e => e);
-            var lista = await _context.Productos.ToListAsync();
+            var producto = _context.Productos
+                .Include(e => e.tipoProductos)
+                .Select(e => e)
+                .Where(e => e.Activo)
+                .AsQueryable();
+            var lista = await _context.Productos
+                .Where(e => e.Activo) // Solo productos activos
+                .Include(e => e.tipoProductos)
+                .ToListAsync();
             var tipos = await _context.TiposProductos.ToListAsync();
             foreach (var item in lista)
             {
@@ -49,6 +59,8 @@ namespace Mamma_Pasta.Controllers
                 producto = producto.Where(e => e.TipoProductoId == TipoProductoId);
                 paginador.filtros.Add("TipoProductoId", TipoProductoId.ToString());
             }
+
+            producto = producto.OrderBy(e => e.Nombre);
 
             paginador.cantRegistros = producto.Count();
 
@@ -69,6 +81,34 @@ namespace Mamma_Pasta.Controllers
             ViewData["TipoProductoId"] = new SelectList(_context.TiposProductos, "Id", "Tipo");
             return View(modelo);
         }
+        public async Task<IActionResult> ProductosEliminados()
+        {
+            var productos = await _context.Productos
+                .Where(v => !v.Activo) // Filtrar solo las ventas eliminadas
+                .Include(v => v.tipoProductos)
+                .ToListAsync();
+
+            return View(productos);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RestaurarProducto(int id)
+        {
+            var producto = await _context.Productos.FindAsync(id);
+            if (producto == null)
+            {
+                return NotFound();
+            }
+
+            // Restaurar la venta cambiando Activo a true
+            producto.Activo = true;
+            _context.Productos.Update(producto);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(ProductosEliminados));
+        }
+
 
         public async Task<IActionResult> Import()
         {
@@ -296,7 +336,6 @@ namespace Mamma_Pasta.Controllers
             {
                 return NotFound();
             }
-
             var producto = await _context.Productos
                 .Include(p => p.tipoProductos)
                 .FirstOrDefaultAsync(m => m.Id == id);
@@ -314,12 +353,15 @@ namespace Mamma_Pasta.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var producto = await _context.Productos.FindAsync(id);
-            if (producto != null)
+            if (producto == null)
             {
-                _context.Productos.Remove(producto);
+                return NotFound();
             }
 
+            producto.Activo = false;
+            _context.Productos.Update(producto);
             await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
 

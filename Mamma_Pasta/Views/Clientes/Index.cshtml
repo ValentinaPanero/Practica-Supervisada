@@ -6,10 +6,16 @@
 
 <h1>Clientes</h1>
 
-<p>
-    <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nuevo Cliente</a>
-    <a class="btn btn-warning" asp-area="" asp-controller="TipoDePagos" asp-action="Index">Tipos de Pago</a>
-</p>
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <div>
+        <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nuevo Cliente</a>
+        <a class="btn btn-warning" asp-area="" asp-controller="TipoDePagos" asp-action="Index">Tipos de Pago</a>
+    </div>
+    <div>
+        <a asp-controller="Clientes" asp-action="ClientesEliminados" class="btn btn-secondary">Clientes Eliminados</a>
+    </div>
+    
+</div>
 <table class="table">
     <thead>
         <tr>

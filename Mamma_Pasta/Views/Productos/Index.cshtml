@@ -6,28 +6,27 @@
 
 <h1>Productos</h1>
 
-<table class="table margin-top: 15px">
-    <tr>
-        <td>
-            <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nuevo Producto</a>
-            <a class="btn btn-warning" asp-area="" asp-controller="TipoProductos" asp-action="Index">Tipo de productos</a>
-        </td>
-        <td>
-            <form asp-action="Index" method="get" class="d-flex align-items-center">
-                <input placeholder="Filtrar por Nombre de producto" type="text" name="BusqNombre" class="form-control" />
-                <input type="submit" value="Filtrar" class="btn btn-warning" />
-            </form>
-        </td>
-        <td>
-            <form asp-action="Index" method="get" class="d-flex align-items-center">
-                <select name="TipoProductoId" asp-items="ViewBag.TipoProductoId" class="form-control">
-                    <option value="" disabled selected>Filtrar por tipo de producto</option>
-                </select>
-                <input type="submit" value="Filtrar" class="btn btn-warning" />
-            </form>
-        </td>
-    </tr>
-</table>
+<div class="d-flex justify-content-between align-items-center mb-3 flex-wrap">
+    <div>
+        <a asp-action="Create" class="btn btn-warning" title="Alt + E">Nuevo Producto</a>
+        <a class="btn btn-warning" asp-area="" asp-controller="TipoProductos" asp-action="Index">Tipo de productos</a>
+    </div>
+    <form asp-action="Index" method="get" class="d-flex gap-2">
+        <input placeholder="Filtrar por Nombre" type="text" name="BusqNombre" class="form-control form-control-sm"/>
+        <select name="TipoProductoId" asp-items="ViewBag.TipoProductoId" class="form-select form-select-sm">
+            <option value="" disabled selected>Tipo de producto</option>
+        </select>
+        <input type="submit" value="Filtrar" class="btn btn-warning btn-sm" />
+    </form>
+    <div>
+        <a asp-controller="Productos" asp-action="ProductosEliminados" class="btn btn-secondary">Productos Eliminados</a>
+    </div>
+</div>
+
+
+
+
+
 <table class="table">
     <thead>
         <tr>

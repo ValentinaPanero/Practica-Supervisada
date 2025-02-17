@@ -301,6 +301,7 @@ namespace Mamma_Pasta.Controllers
            .Include(v => v.Clientes) // Incluir cliente
            .ThenInclude(c => c.TiposDePago) // Incluir tipo de pago
            .FirstOrDefaultAsync(m => m.Id == id);
+
             if (venta == null)
             {
                 return NotFound();

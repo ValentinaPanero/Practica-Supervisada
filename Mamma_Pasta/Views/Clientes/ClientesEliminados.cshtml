@@ -1,0 +1,41 @@
+﻿@model List<Cliente>
+
+<h2>Clientes Eliminados</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Telefono</th>
+            <th>Direccion</th>
+            <th>Tipo de Pago</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.Id</td>
+                <td>@cliente.Nombre</td>
+                <td>@cliente.Telefono</td>
+                <th>@cliente.Direccion</th>
+                <th>@cliente.TiposDePago?.Tipo</th>
+                <td>
+                    <div class="d-flex gap-2">
+                        <a asp-action="Details" asp-route-id="@cliente.Id" class="btn btn-warning">Detalles</a> |
+                        <form asp-action="RestaurarCliente" asp-route-id="@cliente.Id" method="post">
+                            <button type="submit" class="btn btn-success">Restaurar</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Index" class="btn btn-warning" style="margin-top:50px">Volver a la lista</a>
+</div>
+
+
