@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ciDuo7H29339joh/046fvBcQMU8+HC+2sHQRlVXOV4U=",
+  "Hash": "Hvnu1EN6tQdggCA4WHlKgD579yGxSoLnGAcOA8jn60w=",
   "Source": "Mamma_Pasta",
   "BasePath": "_content/Mamma_Pasta",
   "Mode": "Default",
@@ -4385,6 +4385,27 @@
       "OriginalItemSpec": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\zwx90q9bd5-rgxz1n8fiy.gz",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268#[.{fingerprint=rgxz1n8fiy}]?.csv.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wdlavl5an9",
+      "Integrity": "PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv"
+    },
+    {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -4490,6 +4511,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\icons8-ajustes-24.png",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "Imagenes/Icons/icons8-ajustes-24#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxyo71pk4f",
+      "Integrity": "3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Icons\\icons8-ajustes-24.png"
+    },
+    {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\logo.jpg",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
@@ -4532,12 +4574,33 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\Icons\\logo_mamma_pasta.png"
     },
     {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png",
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Arroz y lentejas.jpg",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
       "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet)#[.{fingerprint}]?.png",
+      "RelativePath": "Imagenes/Productos/Arroz y lentejas#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s3dyf09jns",
+      "Integrity": "KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Arroz y lentejas.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y Mix de Vegetales (Gourmet).png",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet)#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4550,57 +4613,15 @@
       "Integrity": "/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Bondiola y Mix de Vegetales (Gourmet).png"
     },
     {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg",
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y Muzzarella.jpg",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
       "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/C. de Espinaca, ricota y parmesano#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hofze6z689",
-      "Integrity": "329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de ternera y espinaca.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/C. de ternera y espinaca#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hofze6z689",
-      "Integrity": "329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\C. de ternera y espinaca.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Calabaza y muzzarella (500gr)#[.{fingerprint}]?.jpg",
+      "RelativePath": "Imagenes/Productos/Calabaza y Muzzarella#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4613,57 +4634,15 @@
       "Integrity": "HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Calabaza y Muzzarella.jpg"
     },
     {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg",
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro Quesos.jpg",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
       "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Canelones con salsa bolognesa#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "lm17xi1cbi",
-      "Integrity": "/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Chocolina.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Chocolina#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "18aj7kfa18",
-      "Integrity": "gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Chocolina.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Cuatro quesos (500gr)#[.{fingerprint}]?.jpg",
+      "RelativePath": "Imagenes/Productos/Cuatro Quesos#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4676,36 +4655,15 @@
       "Integrity": "NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Cuatro Quesos.jpg"
     },
     {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos.jpg",
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, Ricota y Parmesano.jpg",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
       "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Cuatro quesos#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "swrafb45zl",
-      "Integrity": "NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Cuatro quesos.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Espinaca, ricota y parmesano#[.{fingerprint}]?.jpg",
+      "RelativePath": "Imagenes/Productos/Espinaca, Ricota y Parmesano#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4718,246 +4676,15 @@
       "Integrity": "5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Espinaca, Ricota y Parmesano.jpg"
     },
     {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Jamon cocido y queso.jpg",
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y Nuez.jpg",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
       "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Jamon cocido y queso#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kyst58mdkm",
-      "Integrity": "3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Jamon cocido y queso.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Lasagna.png",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Lasagna#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "tk4ojc4pda",
-      "Integrity": "06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Lasagna.png"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Morron.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Morron#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pgxnxpplzx",
-      "Integrity": "12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Morron.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ñoquis.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Ñoquis#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ix9q82f1h5",
-      "Integrity": "xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ñoquis.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\P. de Ternera y Espinaca.png",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/P. de Ternera y Espinaca#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "pezb772lkm",
-      "Integrity": "/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\P. de Ternera y Espinaca.png"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Pavita y hongos (500gr)#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ik9s70o7hq",
-      "Integrity": "csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Pavita y hongos (Gourmet)#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ik9s70o7hq",
-      "Integrity": "csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Pavita y hongos#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fk6jlgjrxo",
-      "Integrity": "/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Pavita y hongos.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pollo y verduras.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Pollo y verduras#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "c81jam7kxc",
-      "Integrity": "/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Pollo y verduras.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Postre oreo.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Postre oreo#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "vnxkkcnrvv",
-      "Integrity": "laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Postre oreo.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/R. de espinaca, ricota y parmesano#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "feaxh6h7yq",
-      "Integrity": "5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Ricota y nuez (500gr)#[.{fingerprint}]?.jpg",
+      "RelativePath": "Imagenes/Productos/Ricota y Nuez#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4970,217 +4697,7 @@
       "Integrity": "LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Ricota y nuez#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "x3qk3ptuzb",
-      "Integrity": "LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ricota y nuez.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/S. de jamon y muzzarella#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "jyf8cvbv24",
-      "Integrity": "y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. al huevo.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/T. al huevo#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v6h483z9wl",
-      "Integrity": "B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\T. al huevo.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Espinaca.jpeg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/T. de Espinaca#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kl2qu31sk4",
-      "Integrity": "qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\T. de Espinaca.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Morron.webp",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/T. de Morron#[.{fingerprint}]?.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xio4spfswh",
-      "Integrity": "KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\T. de Morron.webp"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Ternera y espinaca (500gr)#[.{fingerprint}]?.avif",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0134jz3ihz",
-      "Integrity": "rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Ternera y espinaca (500gr)#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0134jz3ihz",
-      "Integrity": "rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Ternera y espinaca#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "jksxy9tt3l",
-      "Integrity": "HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ternera y espinaca.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Tiramisu.jpeg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Tiramisu#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1zhede5zo9",
-      "Integrity": "g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Tiramisu.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Turron de quaker.jpg",
-      "SourceId": "Mamma_Pasta",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
-      "BasePath": "_content/Mamma_Pasta",
-      "RelativePath": "Imagenes/Productos/Turron de quaker#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4zwbc4p7qc",
-      "Integrity": "UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Turron de quaker.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ricota y Nuez.jpg"
     },
     {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv",
@@ -5538,6 +5055,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Importaciones\\cfcedf33dafb404ebe5740d80ae2cebd.csv"
+    },
+    {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268#[.{fingerprint}]?.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgxz1n8fiy",
+      "Integrity": "1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv"
     },
     {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\e5fdf429b7d544e4936bc71e87cac3ec.csv",
@@ -16087,6 +15625,88 @@
       ]
     },
     {
+      "Route": "Imagenes/Icons/icons8-ajustes-24.png",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\icons8-ajustes-24.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 11:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Icons/icons8-ajustes-24.qxyo71pk4f.png",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\icons8-ajustes-24.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 11:30:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxyo71pk4f"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Icons/icons8-ajustes-24.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg="
+        }
+      ]
+    },
+    {
       "Route": "Imagenes/Icons/logo.5c2durjg6m.jpg",
       "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\logo.jpg",
       "Selectors": [],
@@ -16251,8 +15871,90 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).pezb772lkm.png",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png",
+      "Route": "Imagenes/Productos/Arroz y lentejas.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Arroz y lentejas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 12:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Productos/Arroz y lentejas.s3dyf09jns.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Arroz y lentejas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 12:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s3dyf09jns"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Productos/Arroz y lentejas.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).pezb772lkm.png",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y Mix de Vegetales (Gourmet).png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16273,7 +15975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:00 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16287,7 +15989,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png"
+          "Value": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png"
         },
         {
           "Name": "integrity",
@@ -16296,8 +15998,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png",
+      "Route": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y Mix de Vegetales (Gourmet).png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16318,7 +16020,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:00 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16333,172 +16035,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.hofze6z689.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:08:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hofze6z689"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:08:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/C. de ternera y espinaca.hofze6z689.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:06:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hofze6z689"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/C. de ternera y espinaca.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/C. de ternera y espinaca.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:06:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Calabaza y muzzarella (500gr).jksxy9tt3l.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg",
+      "Route": "Imagenes/Productos/Calabaza y Muzzarella.jksxy9tt3l.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y Muzzarella.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16519,7 +16057,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:39:57 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16533,7 +16071,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Calabaza y muzzarella (500gr).jpg"
+          "Value": "Imagenes/Productos/Calabaza y Muzzarella.jpg"
         },
         {
           "Name": "integrity",
@@ -16542,8 +16080,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Calabaza y muzzarella (500gr).jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg",
+      "Route": "Imagenes/Productos/Calabaza y Muzzarella.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y Muzzarella.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16564,7 +16102,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:39:57 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16579,172 +16117,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Canelones con salsa bolognesa.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:10:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Canelones con salsa bolognesa.lm17xi1cbi.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:10:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lm17xi1cbi"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Canelones con salsa bolognesa.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Chocolina.18aj7kfa18.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Chocolina.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "18aj7kfa18"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Chocolina.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Chocolina.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Chocolina.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Cuatro quesos (500gr).jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg",
+      "Route": "Imagenes/Productos/Cuatro Quesos.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro Quesos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16765,7 +16139,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:35:27 GMT"
+          "Value": "Tue, 18 Feb 2025 12:10:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16780,8 +16154,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Cuatro quesos (500gr).swrafb45zl.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg",
+      "Route": "Imagenes/Productos/Cuatro Quesos.swrafb45zl.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro Quesos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16802,7 +16176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:35:27 GMT"
+          "Value": "Tue, 18 Feb 2025 12:10:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16816,7 +16190,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Cuatro quesos (500gr).jpg"
+          "Value": "Imagenes/Productos/Cuatro Quesos.jpg"
         },
         {
           "Name": "integrity",
@@ -16825,90 +16199,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Cuatro quesos.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "49624"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Cuatro quesos.swrafb45zl.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "49624"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "swrafb45zl"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Cuatro quesos.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Espinaca, ricota y parmesano.feaxh6h7yq.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg",
+      "Route": "Imagenes/Productos/Espinaca, Ricota y Parmesano.feaxh6h7yq.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, Ricota y Parmesano.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16929,7 +16221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:30:38 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16943,7 +16235,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Espinaca, ricota y parmesano.jpg"
+          "Value": "Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg"
         },
         {
           "Name": "integrity",
@@ -16952,8 +16244,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Espinaca, ricota y parmesano.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg",
+      "Route": "Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, Ricota y Parmesano.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16974,7 +16266,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:30:38 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16989,910 +16281,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Jamon cocido y queso.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Jamon cocido y queso.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "66048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 19:01:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Jamon cocido y queso.kyst58mdkm.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Jamon cocido y queso.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "66048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 19:01:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kyst58mdkm"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Jamon cocido y queso.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Lasagna.png",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Lasagna.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "430468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:09:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Lasagna.tk4ojc4pda.png",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Lasagna.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "430468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:09:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tk4ojc4pda"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Lasagna.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Morron.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Morron.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27620"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:40:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Morron.pgxnxpplzx.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Morron.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27620"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:40:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pgxnxpplzx"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Morron.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ñoquis.ix9q82f1h5.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ñoquis.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:28:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ix9q82f1h5"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ñoquis.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ñoquis.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ñoquis.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:28:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/P. de Ternera y Espinaca.pezb772lkm.png",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\P. de Ternera y Espinaca.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "440083"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pezb772lkm"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/P. de Ternera y Espinaca.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/P. de Ternera y Espinaca.png",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\P. de Ternera y Espinaca.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "440083"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (500gr).ik9s70o7hq.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:16:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ik9s70o7hq"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pavita y hongos (500gr).jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (500gr).jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:16:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (Gourmet).ik9s70o7hq.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ik9s70o7hq"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pavita y hongos (Gourmet).jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (Gourmet).jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos.fk6jlgjrxo.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "80761"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 03:40:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fk6jlgjrxo"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pavita y hongos.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "80761"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 03:40:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pollo y verduras.c81jam7kxc.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pollo y verduras.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16110"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:41:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c81jam7kxc"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pollo y verduras.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pollo y verduras.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pollo y verduras.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16110"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:41:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Postre oreo.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Postre oreo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1354758"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Postre oreo.vnxkkcnrvv.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Postre oreo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1354758"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vnxkkcnrvv"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Postre oreo.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/R. de espinaca, ricota y parmesano.feaxh6h7yq.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "54699"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:29:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "feaxh6h7yq"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "54699"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:29:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ricota y nuez (500gr).jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg",
+      "Route": "Imagenes/Productos/Ricota y Nuez.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y Nuez.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17913,7 +16303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:36:45 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17928,8 +16318,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Ricota y nuez (500gr).x3qk3ptuzb.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg",
+      "Route": "Imagenes/Productos/Ricota y Nuez.x3qk3ptuzb.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y Nuez.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17950,7 +16340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:36:45 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -17964,831 +16354,11 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Ricota y nuez (500gr).jpg"
+          "Value": "Imagenes/Productos/Ricota y Nuez.jpg"
         },
         {
           "Name": "integrity",
           "Value": "sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ricota y nuez.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "69892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ricota y nuez.x3qk3ptuzb.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "69892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x3qk3ptuzb"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ricota y nuez.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/S. de jamon y muzzarella.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:38:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/S. de jamon y muzzarella.jyf8cvbv24.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:38:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jyf8cvbv24"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/S. de jamon y muzzarella.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. al huevo.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. al huevo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70865"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:27:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. al huevo.v6h483z9wl.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. al huevo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70865"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:27:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v6h483z9wl"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/T. al huevo.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Espinaca.jpeg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Espinaca.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "292989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Espinaca.kl2qu31sk4.jpeg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Espinaca.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "292989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kl2qu31sk4"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/T. de Espinaca.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Morron.webp",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Morron.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24754"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:18:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Morron.xio4spfswh.webp",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Morron.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24754"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:18:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xio4spfswh"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/T. de Morron.webp"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).0134jz3ihz.avif",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:20:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0134jz3ihz"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ternera y espinaca (500gr).avif"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).0134jz3ihz.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:24:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0134jz3ihz"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ternera y espinaca (500gr).jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).avif",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:20:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:24:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca.jksxy9tt3l.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "160590"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:41:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jksxy9tt3l"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ternera y espinaca.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "160590"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:41:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Tiramisu.1zhede5zo9.jpeg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Tiramisu.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1zhede5zo9"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Tiramisu.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Tiramisu.jpeg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Tiramisu.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Turron de quaker.4zwbc4p7qc.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Turron de quaker.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "58062"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4zwbc4p7qc"
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Turron de quaker.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Turron de quaker.jpg",
-      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Turron de quaker.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "58062"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8="
         }
       ]
     },
@@ -23855,6 +21425,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-eYcP4jXIq/TvlhPuUGcT1I2euh3DjjfOGJ+dCZqgR9I="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\zwx90q9bd5-rgxz1n8fiy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\zwx90q9bd5-rgxz1n8fiy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\zwx90q9bd5-rgxz1n8fiy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgxz1n8fiy"
+        },
+        {
+          "Name": "label",
+          "Value": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgxz1n8fiy"
+        },
+        {
+          "Name": "label",
+          "Value": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv.gz",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\zwx90q9bd5-rgxz1n8fiy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgxz1n8fiy"
+        },
+        {
+          "Name": "label",
+          "Value": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU="
         }
       ]
     },

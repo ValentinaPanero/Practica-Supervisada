@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mamma_Pasta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e76ad6c7956c6a092c87309f250bab2eb723b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0328cda727635cf813769da7a50a4dfb4e4843d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mamma_Pasta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mamma_Pasta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

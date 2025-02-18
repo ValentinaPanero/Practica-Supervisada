@@ -78,7 +78,7 @@ namespace Mamma_Pasta.Controllers
             };
 
 
-            ViewData["TipoProductoId"] = new SelectList(_context.TiposProductos, "Id", "Tipo");
+            ViewData["TipoProductoId"] = new SelectList(_context.TiposProductos, "Id", "Tipo", TipoProductoId);
             return View(modelo);
         }
         public async Task<IActionResult> ProductosEliminados()

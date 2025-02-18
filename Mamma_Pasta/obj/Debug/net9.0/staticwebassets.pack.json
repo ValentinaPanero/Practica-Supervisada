@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Mamma_Pasta.5h44tqemki.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\icons8-ajustes-24.png",
+      "PackagePath": "staticwebassets\\Imagenes\\Icons\\icons8-ajustes-24.png"
+    },
+    {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Icons\\logo.jpg",
       "PackagePath": "staticwebassets\\Imagenes\\Icons\\logo.jpg"
     },
@@ -13,128 +17,28 @@
       "PackagePath": "staticwebassets\\Imagenes\\Icons\\logo_mamma_pasta.png"
     },
     {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Bondiola y mix de vegetales (Gourmet).png"
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Arroz y lentejas.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Arroz y lentejas.jpg"
     },
     {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\C. de Espinaca, ricota y parmesano.jpg"
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Bondiola y Mix de Vegetales (Gourmet).png",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Bondiola y Mix de Vegetales (Gourmet).png"
     },
     {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\C. de ternera y espinaca.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\C. de ternera y espinaca.jpg"
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y Muzzarella.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Calabaza y Muzzarella.jpg"
     },
     {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Calabaza y muzzarella (500gr).jpg"
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro Quesos.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Cuatro Quesos.jpg"
     },
     {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Canelones con salsa bolognesa.jpg"
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, Ricota y Parmesano.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Espinaca, Ricota y Parmesano.jpg"
     },
     {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Chocolina.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Chocolina.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Cuatro quesos (500gr).jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Cuatro quesos.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Cuatro quesos.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Espinaca, ricota y parmesano.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Jamon cocido y queso.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Jamon cocido y queso.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Lasagna.png",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Lasagna.png"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Morron.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Morron.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\P. de Ternera y Espinaca.png",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\P. de Ternera y Espinaca.png"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pavita y hongos (500gr).jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pavita y hongos (Gourmet).jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pavita y hongos.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pavita y hongos.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Pollo y verduras.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Pollo y verduras.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Postre oreo.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Postre oreo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\R. de espinaca, ricota y parmesano.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ricota y nuez (500gr).jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y nuez.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ricota y nuez.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\S. de jamon y muzzarella.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. al huevo.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\T. al huevo.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Espinaca.jpeg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\T. de Espinaca.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\T. de Morron.webp",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\T. de Morron.webp"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y espinaca (500gr).avif"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y espinaca (500gr).jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y espinaca.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y espinaca.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Tiramisu.jpeg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Tiramisu.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Turron de quaker.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Turron de quaker.jpg"
-    },
-    {
-      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ñoquis.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ñoquis.jpg"
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ricota y Nuez.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ricota y Nuez.jpg"
     },
     {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv",
@@ -203,6 +107,10 @@
     {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\cfcedf33dafb404ebe5740d80ae2cebd.csv",
       "PackagePath": "staticwebassets\\Importaciones\\cfcedf33dafb404ebe5740d80ae2cebd.csv"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "PackagePath": "staticwebassets\\Importaciones\\d129a9f04d124e03ac0cbc10cdf20268.csv"
     },
     {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\e5fdf429b7d544e4936bc71e87cac3ec.csv",

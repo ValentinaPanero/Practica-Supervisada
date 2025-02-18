@@ -24,6 +24,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 12:10:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Icons/icons8-ajustes-24.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Icons\icons8-ajustes-24.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7\u002BB63JXyzg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"477"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7\u002BB63JXyzg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:30:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Icons/icons8-ajustes-24.qxyo71pk4f.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Icons\icons8-ajustes-24.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qxyo71pk4f"},{"Name":"integrity","Value":"sha256-3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7\u002BB63JXyzg="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Icons/icons8-ajustes-24.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"477"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7\u002BB63JXyzg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 11:30:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Icons/logo.5c2durjg6m.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Icons\logo.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -48,377 +60,77 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sjak9dyjuq"},{"Name":"integrity","Value":"sha256-aE8Edd/P1m8Et5eCxxJkvkNU1y6ckthzCNPkjkZ2fkI="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Icons/logo_mamma_pasta.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"110305"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022aE8Edd/P1m8Et5eCxxJkvkNU1y6ckthzCNPkjkZ2fkI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 04 Nov 2024 23:34:46 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).pezb772lkm.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Bondiola y mix de vegetales (Gourmet).png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Arroz y lentejas.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Arroz y lentejas.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pezb772lkm"},{"Name":"integrity","Value":"sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"440083"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:03:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53308"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:14:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Bondiola y mix de vegetales (Gourmet).png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Arroz y lentejas.s3dyf09jns.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Arroz y lentejas.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s3dyf09jns"},{"Name":"integrity","Value":"sha256-KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Arroz y lentejas.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53308"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:14:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).pezb772lkm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Bondiola y Mix de Vegetales (Gourmet).png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pezb772lkm"},{"Name":"integrity","Value":"sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"440083"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:15:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Bondiola y Mix de Vegetales (Gourmet).png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"440083"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:03:00 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"440083"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:15:11 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/C. de Espinaca, ricota y parmesano.hofze6z689.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\C. de Espinaca, ricota y parmesano.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Calabaza y Muzzarella.jksxy9tt3l.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Calabaza y Muzzarella.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hofze6z689"},{"Name":"integrity","Value":"sha256-329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48561"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:08:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jksxy9tt3l"},{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Calabaza y Muzzarella.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:15:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\C. de Espinaca, ricota y parmesano.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48561"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:08:00 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/C. de ternera y espinaca.hofze6z689.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\C. de ternera y espinaca.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hofze6z689"},{"Name":"integrity","Value":"sha256-329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/C. de ternera y espinaca.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48561"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:06:49 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/C. de ternera y espinaca.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\C. de ternera y espinaca.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48561"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022329vwDfM/PP2EgXQ\u002BgbUQiYN8t/37q2wHgnj4XNNlOI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:06:49 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Calabaza y muzzarella (500gr).jksxy9tt3l.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Calabaza y muzzarella (500gr).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jksxy9tt3l"},{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Calabaza y muzzarella (500gr).jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:39:57 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Calabaza y muzzarella (500gr).jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Calabaza y muzzarella (500gr).jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Calabaza y Muzzarella.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Calabaza y Muzzarella.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:39:57 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:15:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Canelones con salsa bolognesa.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Canelones con salsa bolognesa.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"73616"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:10:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Canelones con salsa bolognesa.lm17xi1cbi.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Canelones con salsa bolognesa.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lm17xi1cbi"},{"Name":"integrity","Value":"sha256-/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Canelones con salsa bolognesa.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73616"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:10:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Chocolina.18aj7kfa18.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Chocolina.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"18aj7kfa18"},{"Name":"integrity","Value":"sha256-gWE3qneEj\u002BdEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Chocolina.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78129"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gWE3qneEj\u002BdEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:47:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Chocolina.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Chocolina.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gWE3qneEj\u002BdEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78129"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gWE3qneEj\u002BdEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:47:48 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Cuatro quesos (500gr).jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Cuatro quesos (500gr).jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Cuatro Quesos.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Cuatro Quesos.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:35:27 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:10:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Cuatro quesos (500gr).swrafb45zl.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Cuatro quesos (500gr).jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Cuatro Quesos.swrafb45zl.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Cuatro Quesos.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"swrafb45zl"},{"Name":"integrity","Value":"sha256-NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Cuatro quesos (500gr).jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:35:27 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"swrafb45zl"},{"Name":"integrity","Value":"sha256-NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Cuatro Quesos.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:10:37 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Cuatro quesos.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Cuatro quesos.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Espinaca, Ricota y Parmesano.feaxh6h7yq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Espinaca, Ricota y Parmesano.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"49624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:04:23 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"feaxh6h7yq"},{"Name":"integrity","Value":"sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:11:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Cuatro quesos.swrafb45zl.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Cuatro quesos.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"swrafb45zl"},{"Name":"integrity","Value":"sha256-NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Cuatro quesos.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"49624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NFlID6tuioDpb4ccTOulpWLIpchp\u002BmF2ykPAy1rB7rc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:04:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Espinaca, ricota y parmesano.feaxh6h7yq.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Espinaca, ricota y parmesano.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"feaxh6h7yq"},{"Name":"integrity","Value":"sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Espinaca, ricota y parmesano.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:30:38 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Espinaca, ricota y parmesano.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Espinaca, ricota y parmesano.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Espinaca, Ricota y Parmesano.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:30:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:11:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Jamon cocido y queso.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Jamon cocido y queso.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"66048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 19:01:07 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Jamon cocido y queso.kyst58mdkm.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Jamon cocido y queso.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kyst58mdkm"},{"Name":"integrity","Value":"sha256-3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Jamon cocido y queso.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"66048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 19:01:07 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Lasagna.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Lasagna.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-06\u002BCnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"430468"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002206\u002BCnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:09:30 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Lasagna.tk4ojc4pda.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Lasagna.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tk4ojc4pda"},{"Name":"integrity","Value":"sha256-06\u002BCnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Lasagna.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"430468"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u002206\u002BCnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:09:30 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Morron.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Morron.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-12H8sUBO5SjAUAMc2xr6d3\u002BswkFkV0l5txvfGqNLw7M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"27620"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002212H8sUBO5SjAUAMc2xr6d3\u002BswkFkV0l5txvfGqNLw7M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 Nov 2024 05:40:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Morron.pgxnxpplzx.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Morron.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pgxnxpplzx"},{"Name":"integrity","Value":"sha256-12H8sUBO5SjAUAMc2xr6d3\u002BswkFkV0l5txvfGqNLw7M="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Morron.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"27620"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002212H8sUBO5SjAUAMc2xr6d3\u002BswkFkV0l5txvfGqNLw7M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 Nov 2024 05:40:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/P. de Ternera y Espinaca.pezb772lkm.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\P. de Ternera y Espinaca.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pezb772lkm"},{"Name":"integrity","Value":"sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/P. de Ternera y Espinaca.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"440083"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:26:07 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/P. de Ternera y Espinaca.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\P. de Ternera y Espinaca.png'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"440083"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:26:07 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos (500gr).ik9s70o7hq.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pavita y hongos (500gr).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ik9s70o7hq"},{"Name":"integrity","Value":"sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos (500gr).jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43604"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:16:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos (500gr).jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pavita y hongos (500gr).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"43604"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:16:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos (Gourmet).ik9s70o7hq.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pavita y hongos (Gourmet).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ik9s70o7hq"},{"Name":"integrity","Value":"sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos (Gourmet).jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"43604"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:03:26 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos (Gourmet).jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pavita y hongos (Gourmet).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"43604"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:03:26 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos.fk6jlgjrxo.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pavita y hongos.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fk6jlgjrxo"},{"Name":"integrity","Value":"sha256-/wyCiILbwdM09LwA/y8\u002BAd7uufwsTKw\u002BbGyR1QLszE0="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80761"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/wyCiILbwdM09LwA/y8\u002BAd7uufwsTKw\u002BbGyR1QLszE0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 Nov 2024 03:40:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pavita y hongos.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pavita y hongos.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/wyCiILbwdM09LwA/y8\u002BAd7uufwsTKw\u002BbGyR1QLszE0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80761"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/wyCiILbwdM09LwA/y8\u002BAd7uufwsTKw\u002BbGyR1QLszE0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 Nov 2024 03:40:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pollo y verduras.c81jam7kxc.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pollo y verduras.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c81jam7kxc"},{"Name":"integrity","Value":"sha256-/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice\u002BpwmLSLK/E="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Pollo y verduras.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16110"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice\u002BpwmLSLK/E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 Nov 2024 05:41:57 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Pollo y verduras.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Pollo y verduras.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice\u002BpwmLSLK/E="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16110"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice\u002BpwmLSLK/E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 07 Nov 2024 05:41:57 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Postre oreo.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Postre oreo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1354758"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:46:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Postre oreo.vnxkkcnrvv.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Postre oreo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vnxkkcnrvv"},{"Name":"integrity","Value":"sha256-laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Postre oreo.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1354758"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:46:24 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/R. de espinaca, ricota y parmesano.feaxh6h7yq.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\R. de espinaca, ricota y parmesano.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"feaxh6h7yq"},{"Name":"integrity","Value":"sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:29:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\R. de espinaca, ricota y parmesano.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"54699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:29:52 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ricota y nuez (500gr).jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ricota y nuez (500gr).jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ricota y Nuez.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ricota y Nuez.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:36:45 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:11:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ricota y nuez (500gr).x3qk3ptuzb.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ricota y nuez (500gr).jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ricota y Nuez.x3qk3ptuzb.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ricota y Nuez.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x3qk3ptuzb"},{"Name":"integrity","Value":"sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ricota y nuez (500gr).jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:36:45 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ricota y nuez.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ricota y nuez.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:04:46 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ricota y nuez.x3qk3ptuzb.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ricota y nuez.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x3qk3ptuzb"},{"Name":"integrity","Value":"sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ricota y nuez.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:04:46 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/S. de jamon y muzzarella.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\S. de jamon y muzzarella.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX\u002BSU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"51750"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX\u002BSU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:38:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/S. de jamon y muzzarella.jyf8cvbv24.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\S. de jamon y muzzarella.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jyf8cvbv24"},{"Name":"integrity","Value":"sha256-y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX\u002BSU="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/S. de jamon y muzzarella.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51750"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX\u002BSU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:38:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/T. al huevo.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\T. al huevo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H\u002B\u002BXFTPI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70865"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H\u002B\u002BXFTPI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:27:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/T. al huevo.v6h483z9wl.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\T. al huevo.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v6h483z9wl"},{"Name":"integrity","Value":"sha256-B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H\u002B\u002BXFTPI="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/T. al huevo.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70865"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H\u002B\u002BXFTPI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:27:51 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/T. de Espinaca.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\T. de Espinaca.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qGnVwZvp7SBn7OB12nfWlR\u002BYHVBx1fA/z1eM4uWnf8g="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"292989"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qGnVwZvp7SBn7OB12nfWlR\u002BYHVBx1fA/z1eM4uWnf8g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:26:30 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/T. de Espinaca.kl2qu31sk4.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\T. de Espinaca.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kl2qu31sk4"},{"Name":"integrity","Value":"sha256-qGnVwZvp7SBn7OB12nfWlR\u002BYHVBx1fA/z1eM4uWnf8g="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/T. de Espinaca.jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292989"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qGnVwZvp7SBn7OB12nfWlR\u002BYHVBx1fA/z1eM4uWnf8g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:26:30 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/T. de Morron.webp">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\T. de Morron.webp'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"24754"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:18:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/T. de Morron.xio4spfswh.webp">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\T. de Morron.webp'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xio4spfswh"},{"Name":"integrity","Value":"sha256-KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/T. de Morron.webp"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24754"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:18:23 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca (500gr).0134jz3ihz.avif">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca (500gr).avif'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0134jz3ihz"},{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca (500gr).avif"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:20:20 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca (500gr).0134jz3ihz.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca (500gr).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0134jz3ihz"},{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca (500gr).jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:24:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca (500gr).avif">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca (500gr).avif'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:20:20 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca (500gr).jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca (500gr).jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:24:33 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jksxy9tt3l.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jksxy9tt3l"},{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 12:41:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y espinaca.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y espinaca.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"160590"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 14 Feb 2025 12:41:34 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Tiramisu.1zhede5zo9.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Tiramisu.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1zhede5zo9"},{"Name":"integrity","Value":"sha256-g3iZRNrd9T\u002B2b9vC9QDFzX1L05ren1az83nbBcwZfQI="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Tiramisu.jpeg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9871"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022g3iZRNrd9T\u002B2b9vC9QDFzX1L05ren1az83nbBcwZfQI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:47:19 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Tiramisu.jpeg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Tiramisu.jpeg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-g3iZRNrd9T\u002B2b9vC9QDFzX1L05ren1az83nbBcwZfQI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9871"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022g3iZRNrd9T\u002B2b9vC9QDFzX1L05ren1az83nbBcwZfQI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:47:19 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Turron de quaker.4zwbc4p7qc.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Turron de quaker.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4zwbc4p7qc"},{"Name":"integrity","Value":"sha256-UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Turron de quaker.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:46:53 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Turron de quaker.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Turron de quaker.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58062"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 15:46:53 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ñoquis.ix9q82f1h5.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ñoquis.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ix9q82f1h5"},{"Name":"integrity","Value":"sha256-xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/\u00D1oquis.jpg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53440"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:28:31 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ñoquis.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ñoquis.jpg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53440"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 07:28:31 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x3qk3ptuzb"},{"Name":"integrity","Value":"sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ricota y Nuez.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:11:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Importaciones/0a9d9f08854345569b6b1c63193c9e7c.16emc1r0lp.csv">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Importaciones\0a9d9f08854345569b6b1c63193c9e7c.csv'))</AssetFile>
@@ -623,6 +335,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hv4kdytki6"},{"Name":"integrity","Value":"sha256-U\u002BU\u002BG\u002BNRW762uiABH9q\u002BR6mlFej7fyNiFCgouFymmPE="},{"Name":"label","Value":"_content/Mamma_Pasta/Importaciones/cfcedf33dafb404ebe5740d80ae2cebd.csv"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"108"},{"Name":"Content-Type","Value":"text/csv"},{"Name":"ETag","Value":"\u0022U\u002BU\u002BG\u002BNRW762uiABH9q\u002BR6mlFej7fyNiFCgouFymmPE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 16:28:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Importaciones\d129a9f04d124e03ac0cbc10cdf20268.csv'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1c4PqY4QkNGZLQNnbExwAsV\u002BHPuLCvtRF1zYEeRkQck="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1684"},{"Name":"Content-Type","Value":"text/csv"},{"Name":"ETag","Value":"\u00221c4PqY4QkNGZLQNnbExwAsV\u002BHPuLCvtRF1zYEeRkQck=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 13:42:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Importaciones\d129a9f04d124e03ac0cbc10cdf20268.csv'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rgxz1n8fiy"},{"Name":"integrity","Value":"sha256-1c4PqY4QkNGZLQNnbExwAsV\u002BHPuLCvtRF1zYEeRkQck="},{"Name":"label","Value":"_content/Mamma_Pasta/Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1684"},{"Name":"Content-Type","Value":"text/csv"},{"Name":"ETag","Value":"\u00221c4PqY4QkNGZLQNnbExwAsV\u002BHPuLCvtRF1zYEeRkQck=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 13:42:46 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Importaciones/e5fdf429b7d544e4936bc71e87cac3ec.csv">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Importaciones\e5fdf429b7d544e4936bc71e87cac3ec.csv'))</AssetFile>

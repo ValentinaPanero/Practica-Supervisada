@@ -8534,6 +8534,88 @@
       ]
     },
     {
+      "Route": "Imagenes/Icons/icons8-ajustes-24.png",
+      "AssetFile": "Imagenes/Icons/icons8-ajustes-24.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 11:30:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Icons/icons8-ajustes-24.qxyo71pk4f.png",
+      "AssetFile": "Imagenes/Icons/icons8-ajustes-24.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 11:30:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxyo71pk4f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3mFVdyUE6aETFqdYmlMpXnAmfwo4H58VC7+B63JXyzg="
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Icons/icons8-ajustes-24.png"
+        }
+      ]
+    },
+    {
       "Route": "Imagenes/Icons/logo.5c2durjg6m.jpg",
       "AssetFile": "Imagenes/Icons/logo.jpg",
       "Selectors": [],
@@ -8698,8 +8780,90 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).pezb772lkm.png",
-      "AssetFile": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png",
+      "Route": "Imagenes/Productos/Arroz y lentejas.jpg",
+      "AssetFile": "Imagenes/Productos/Arroz y lentejas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 12:14:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Productos/Arroz y lentejas.s3dyf09jns.jpg",
+      "AssetFile": "Imagenes/Productos/Arroz y lentejas.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 12:14:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s3dyf09jns"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMqJ4xZBvnWtDPyVuukv/POMdIK/usF0FLOisEpJxcY="
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Productos/Arroz y lentejas.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).pezb772lkm.png",
+      "AssetFile": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8724,7 +8888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:00 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:11 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8738,13 +8902,13 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png"
+          "Value": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png"
         }
       ]
     },
     {
-      "Route": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png",
-      "AssetFile": "Imagenes/Productos/Bondiola y mix de vegetales (Gourmet).png",
+      "Route": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png",
+      "AssetFile": "Imagenes/Productos/Bondiola y Mix de Vegetales (Gourmet).png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8769,7 +8933,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:00 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:11 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8780,172 +8944,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.hofze6z689.jpg",
-      "AssetFile": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:08:00 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hofze6z689"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg",
-      "AssetFile": "Imagenes/Productos/C. de Espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:08:00 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/C. de ternera y espinaca.hofze6z689.jpg",
-      "AssetFile": "Imagenes/Productos/C. de ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:06:49 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hofze6z689"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/C. de ternera y espinaca.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/C. de ternera y espinaca.jpg",
-      "AssetFile": "Imagenes/Productos/C. de ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "48561"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:06:49 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-329vwDfM/PP2EgXQ+gbUQiYN8t/37q2wHgnj4XNNlOI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Calabaza y muzzarella (500gr).jksxy9tt3l.jpg",
-      "AssetFile": "Imagenes/Productos/Calabaza y muzzarella (500gr).jpg",
+      "Route": "Imagenes/Productos/Calabaza y Muzzarella.jksxy9tt3l.jpg",
+      "AssetFile": "Imagenes/Productos/Calabaza y Muzzarella.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8970,7 +8970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:39:57 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:26 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8984,13 +8984,13 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Calabaza y muzzarella (500gr).jpg"
+          "Value": "Imagenes/Productos/Calabaza y Muzzarella.jpg"
         }
       ]
     },
     {
-      "Route": "Imagenes/Productos/Calabaza y muzzarella (500gr).jpg",
-      "AssetFile": "Imagenes/Productos/Calabaza y muzzarella (500gr).jpg",
+      "Route": "Imagenes/Productos/Calabaza y Muzzarella.jpg",
+      "AssetFile": "Imagenes/Productos/Calabaza y Muzzarella.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9015,7 +9015,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:39:57 GMT"
+          "Value": "Tue, 18 Feb 2025 12:15:26 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9026,172 +9026,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Canelones con salsa bolognesa.jpg",
-      "AssetFile": "Imagenes/Productos/Canelones con salsa bolognesa.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:10:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Canelones con salsa bolognesa.lm17xi1cbi.jpg",
-      "AssetFile": "Imagenes/Productos/Canelones con salsa bolognesa.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "73616"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:10:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lm17xi1cbi"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Vzf1tBW8JcSQTbKhWmmkTTPkIAcG3Wjzm6/g/JqCXM="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Canelones con salsa bolognesa.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Chocolina.18aj7kfa18.jpg",
-      "AssetFile": "Imagenes/Productos/Chocolina.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:48 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "18aj7kfa18"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Chocolina.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Chocolina.jpg",
-      "AssetFile": "Imagenes/Productos/Chocolina.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:48 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gWE3qneEj+dEAb3vWH4ytVhVHqLKreq2g71tIkKxHVI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Cuatro quesos (500gr).jpg",
-      "AssetFile": "Imagenes/Productos/Cuatro quesos (500gr).jpg",
+      "Route": "Imagenes/Productos/Cuatro Quesos.jpg",
+      "AssetFile": "Imagenes/Productos/Cuatro Quesos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9216,7 +9052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:35:27 GMT"
+          "Value": "Tue, 18 Feb 2025 12:10:37 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9227,8 +9063,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Cuatro quesos (500gr).swrafb45zl.jpg",
-      "AssetFile": "Imagenes/Productos/Cuatro quesos (500gr).jpg",
+      "Route": "Imagenes/Productos/Cuatro Quesos.swrafb45zl.jpg",
+      "AssetFile": "Imagenes/Productos/Cuatro Quesos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9253,7 +9089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:35:27 GMT"
+          "Value": "Tue, 18 Feb 2025 12:10:37 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9267,95 +9103,13 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Cuatro quesos (500gr).jpg"
+          "Value": "Imagenes/Productos/Cuatro Quesos.jpg"
         }
       ]
     },
     {
-      "Route": "Imagenes/Productos/Cuatro quesos.jpg",
-      "AssetFile": "Imagenes/Productos/Cuatro quesos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "49624"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Cuatro quesos.swrafb45zl.jpg",
-      "AssetFile": "Imagenes/Productos/Cuatro quesos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "49624"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "swrafb45zl"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NFlID6tuioDpb4ccTOulpWLIpchp+mF2ykPAy1rB7rc="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Cuatro quesos.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Espinaca, ricota y parmesano.feaxh6h7yq.jpg",
-      "AssetFile": "Imagenes/Productos/Espinaca, ricota y parmesano.jpg",
+      "Route": "Imagenes/Productos/Espinaca, Ricota y Parmesano.feaxh6h7yq.jpg",
+      "AssetFile": "Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9380,7 +9134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:30:38 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:09 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9394,13 +9148,13 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Espinaca, ricota y parmesano.jpg"
+          "Value": "Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg"
         }
       ]
     },
     {
-      "Route": "Imagenes/Productos/Espinaca, ricota y parmesano.jpg",
-      "AssetFile": "Imagenes/Productos/Espinaca, ricota y parmesano.jpg",
+      "Route": "Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg",
+      "AssetFile": "Imagenes/Productos/Espinaca, Ricota y Parmesano.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9425,7 +9179,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:30:38 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:09 GMT"
         }
       ],
       "EndpointProperties": [
@@ -9436,828 +9190,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Jamon cocido y queso.jpg",
-      "AssetFile": "Imagenes/Productos/Jamon cocido y queso.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "66048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 19:01:07 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Jamon cocido y queso.kyst58mdkm.jpg",
-      "AssetFile": "Imagenes/Productos/Jamon cocido y queso.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "66048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 19:01:07 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kyst58mdkm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3BzrLctRO/lehdaN7iwkY3Hh/Evsy69ob4OYxPYpKOY="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Jamon cocido y queso.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Lasagna.png",
-      "AssetFile": "Imagenes/Productos/Lasagna.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "430468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:09:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Lasagna.tk4ojc4pda.png",
-      "AssetFile": "Imagenes/Productos/Lasagna.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "430468"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:09:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tk4ojc4pda"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-06+CnIJXpJ3rBAEAJosyRxhQi6hn0FQf7G9qHg6YHBw="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Lasagna.png"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Morron.jpg",
-      "AssetFile": "Imagenes/Productos/Morron.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27620"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:40:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Morron.pgxnxpplzx.jpg",
-      "AssetFile": "Imagenes/Productos/Morron.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27620"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:40:56 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pgxnxpplzx"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-12H8sUBO5SjAUAMc2xr6d3+swkFkV0l5txvfGqNLw7M="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Morron.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/P. de Ternera y Espinaca.pezb772lkm.png",
-      "AssetFile": "Imagenes/Productos/P. de Ternera y Espinaca.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "440083"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:07 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pezb772lkm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/P. de Ternera y Espinaca.png"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/P. de Ternera y Espinaca.png",
-      "AssetFile": "Imagenes/Productos/P. de Ternera y Espinaca.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "440083"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:07 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/zS0iln37E6ZcXzkFYZwUszwplH46bVDywgHCYCx9VQ="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (500gr).ik9s70o7hq.jpg",
-      "AssetFile": "Imagenes/Productos/Pavita y hongos (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:16:35 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ik9s70o7hq"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pavita y hongos (500gr).jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (500gr).jpg",
-      "AssetFile": "Imagenes/Productos/Pavita y hongos (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:16:35 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (Gourmet).ik9s70o7hq.jpg",
-      "AssetFile": "Imagenes/Productos/Pavita y hongos (Gourmet).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:26 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ik9s70o7hq"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pavita y hongos (Gourmet).jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos (Gourmet).jpg",
-      "AssetFile": "Imagenes/Productos/Pavita y hongos (Gourmet).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "43604"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:03:26 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-csaNuhdeAhJhBbLVSIFSCd/xI3EqGJBfLwDrsDQ/F3M="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos.fk6jlgjrxo.jpg",
-      "AssetFile": "Imagenes/Productos/Pavita y hongos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "80761"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 03:40:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fk6jlgjrxo"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pavita y hongos.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pavita y hongos.jpg",
-      "AssetFile": "Imagenes/Productos/Pavita y hongos.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "80761"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 03:40:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/wyCiILbwdM09LwA/y8+Ad7uufwsTKw+bGyR1QLszE0="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pollo y verduras.c81jam7kxc.jpg",
-      "AssetFile": "Imagenes/Productos/Pollo y verduras.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16110"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:41:57 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c81jam7kxc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Pollo y verduras.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Pollo y verduras.jpg",
-      "AssetFile": "Imagenes/Productos/Pollo y verduras.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16110"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 07 Nov 2024 05:41:57 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/F6/XQNmZBgRqP3LO0R0fKKQ5QDed1Ice+pwmLSLK/E="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Postre oreo.jpg",
-      "AssetFile": "Imagenes/Productos/Postre oreo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1354758"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:24 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Postre oreo.vnxkkcnrvv.jpg",
-      "AssetFile": "Imagenes/Productos/Postre oreo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1354758"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:24 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vnxkkcnrvv"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-laQqzN/Oyo/IVurPFHO0pAxvcP1OO77Mgr3ad7EYMCw="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Postre oreo.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/R. de espinaca, ricota y parmesano.feaxh6h7yq.jpg",
-      "AssetFile": "Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "54699"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:29:52 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "feaxh6h7yq"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg",
-      "AssetFile": "Imagenes/Productos/R. de espinaca, ricota y parmesano.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "54699"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:29:52 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5wvJ9xDjHRYhJ6ME58q6UywvdbHQZgaXhnrCipzS8T0="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ricota y nuez (500gr).jpg",
-      "AssetFile": "Imagenes/Productos/Ricota y nuez (500gr).jpg",
+      "Route": "Imagenes/Productos/Ricota y Nuez.jpg",
+      "AssetFile": "Imagenes/Productos/Ricota y Nuez.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10282,7 +9216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:36:45 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:29 GMT"
         }
       ],
       "EndpointProperties": [
@@ -10293,8 +9227,8 @@
       ]
     },
     {
-      "Route": "Imagenes/Productos/Ricota y nuez (500gr).x3qk3ptuzb.jpg",
-      "AssetFile": "Imagenes/Productos/Ricota y nuez (500gr).jpg",
+      "Route": "Imagenes/Productos/Ricota y Nuez.x3qk3ptuzb.jpg",
+      "AssetFile": "Imagenes/Productos/Ricota y Nuez.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10319,7 +9253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:36:45 GMT"
+          "Value": "Tue, 18 Feb 2025 12:11:29 GMT"
         }
       ],
       "EndpointProperties": [
@@ -10333,909 +9267,7 @@
         },
         {
           "Name": "label",
-          "Value": "Imagenes/Productos/Ricota y nuez (500gr).jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ricota y nuez.jpg",
-      "AssetFile": "Imagenes/Productos/Ricota y nuez.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "69892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:46 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ricota y nuez.x3qk3ptuzb.jpg",
-      "AssetFile": "Imagenes/Productos/Ricota y nuez.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "69892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:04:46 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "x3qk3ptuzb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ricota y nuez.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/S. de jamon y muzzarella.jpg",
-      "AssetFile": "Imagenes/Productos/S. de jamon y muzzarella.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:38:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/S. de jamon y muzzarella.jyf8cvbv24.jpg",
-      "AssetFile": "Imagenes/Productos/S. de jamon y muzzarella.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "51750"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:38:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jyf8cvbv24"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y9qEfXaQjx1WEaNqXOaAyqoZ0uT3rsy1VbI9XtbX+SU="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/S. de jamon y muzzarella.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. al huevo.jpg",
-      "AssetFile": "Imagenes/Productos/T. al huevo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70865"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:27:51 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. al huevo.v6h483z9wl.jpg",
-      "AssetFile": "Imagenes/Productos/T. al huevo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70865"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:27:51 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v6h483z9wl"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-B5QjjoSVf4pNkC7lk9qRqZ/kVhrczXPWy34H++XFTPI="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/T. al huevo.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Espinaca.jpeg",
-      "AssetFile": "Imagenes/Productos/T. de Espinaca.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "292989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Espinaca.kl2qu31sk4.jpeg",
-      "AssetFile": "Imagenes/Productos/T. de Espinaca.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "292989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:26:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kl2qu31sk4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qGnVwZvp7SBn7OB12nfWlR+YHVBx1fA/z1eM4uWnf8g="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/T. de Espinaca.jpeg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Morron.webp",
-      "AssetFile": "Imagenes/Productos/T. de Morron.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24754"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:18:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/T. de Morron.xio4spfswh.webp",
-      "AssetFile": "Imagenes/Productos/T. de Morron.webp",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24754"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/webp"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:18:23 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xio4spfswh"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KeU/f6J/3pUUjqpwnaI/de/Ox6lBZz8cYDX6hWmabb4="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/T. de Morron.webp"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).0134jz3ihz.avif",
-      "AssetFile": "Imagenes/Productos/Ternera y espinaca (500gr).avif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:20:20 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0134jz3ihz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ternera y espinaca (500gr).avif"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).0134jz3ihz.jpg",
-      "AssetFile": "Imagenes/Productos/Ternera y espinaca (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:24:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0134jz3ihz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ternera y espinaca (500gr).jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).avif",
-      "AssetFile": "Imagenes/Productos/Ternera y espinaca (500gr).avif",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:20:20 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca (500gr).jpg",
-      "AssetFile": "Imagenes/Productos/Ternera y espinaca (500gr).jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "32647"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:24:33 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca.jksxy9tt3l.jpg",
-      "AssetFile": "Imagenes/Productos/Ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "160590"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:41:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jksxy9tt3l"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ternera y espinaca.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ternera y espinaca.jpg",
-      "AssetFile": "Imagenes/Productos/Ternera y espinaca.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "160590"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:41:34 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HbunJC3xGYPtj5H07AhTj4hqg3DRJBplHrXyVbasXUY="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Tiramisu.1zhede5zo9.jpeg",
-      "AssetFile": "Imagenes/Productos/Tiramisu.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:19 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1zhede5zo9"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Tiramisu.jpeg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Tiramisu.jpeg",
-      "AssetFile": "Imagenes/Productos/Tiramisu.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:47:19 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g3iZRNrd9T+2b9vC9QDFzX1L05ren1az83nbBcwZfQI="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Turron de quaker.4zwbc4p7qc.jpg",
-      "AssetFile": "Imagenes/Productos/Turron de quaker.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "58062"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:53 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4zwbc4p7qc"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Turron de quaker.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Turron de quaker.jpg",
-      "AssetFile": "Imagenes/Productos/Turron de quaker.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "58062"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 15:46:53 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBgTe29R3lWVWD07y77VDTTDx828UJWe/Bv4gIpsux8="
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ñoquis.ix9q82f1h5.jpg",
-      "AssetFile": "Imagenes/Productos/Ñoquis.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:28:31 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ix9q82f1h5"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo="
-        },
-        {
-          "Name": "label",
-          "Value": "Imagenes/Productos/Ñoquis.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "Imagenes/Productos/Ñoquis.jpg",
-      "AssetFile": "Imagenes/Productos/Ñoquis.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53440"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 14 Nov 2024 07:28:31 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xjSKYYzc6JwePKw0xLAOYKJU05HcSaOQBOmiA/MjYAo="
+          "Value": "Imagenes/Productos/Ricota y Nuez.jpg"
         }
       ]
     },
@@ -16302,6 +14334,304 @@
         {
           "Name": "label",
           "Value": "Importaciones/cfcedf33dafb404ebe5740d80ae2cebd.csv.gz"
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "AssetFile": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "AssetFile": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz",
+      "AssetFile": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU="
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv",
+      "AssetFile": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgxz1n8fiy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        },
+        {
+          "Name": "label",
+          "Value": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv"
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv",
+      "AssetFile": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgxz1n8fiy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4PqY4QkNGZLQNnbExwAsV+HPuLCvtRF1zYEeRkQck="
+        },
+        {
+          "Name": "label",
+          "Value": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv"
+        }
+      ]
+    },
+    {
+      "Route": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.rgxz1n8fiy.csv.gz",
+      "AssetFile": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/csv"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 13:42:46 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rgxz1n8fiy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PLJpvpQi0E78/ENQUeFkBxUnupVOZsW0ej5fXn+VxRU="
+        },
+        {
+          "Name": "label",
+          "Value": "Importaciones/d129a9f04d124e03ac0cbc10cdf20268.csv.gz"
         }
       ]
     },

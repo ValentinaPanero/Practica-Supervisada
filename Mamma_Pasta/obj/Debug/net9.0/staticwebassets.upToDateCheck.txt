@@ -80,41 +80,18 @@ C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\www
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\0f21f9843f5049af8fd3ef3c85a49b67.csv
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\0eb1b9f8d6e14ef4a101573e215b7179.csv
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\d129a9f04d124e03ac0cbc10cdf20268.csv
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Imagenes\Icons\icons8-ajustes-24.png
 wwwroot\Imagenes\Icons\logo.jpg
 wwwroot\Imagenes\Icons\logo_mamma_pasta.png
-wwwroot\Imagenes\Productos\Bondiola y mix de vegetales (Gourmet).png
-wwwroot\Imagenes\Productos\C. de Espinaca, ricota y parmesano.jpg
-wwwroot\Imagenes\Productos\C. de ternera y espinaca.jpg
-wwwroot\Imagenes\Productos\Calabaza y muzzarella (500gr).jpg
-wwwroot\Imagenes\Productos\Canelones con salsa bolognesa.jpg
-wwwroot\Imagenes\Productos\Chocolina.jpg
-wwwroot\Imagenes\Productos\Cuatro quesos (500gr).jpg
-wwwroot\Imagenes\Productos\Cuatro quesos.jpg
-wwwroot\Imagenes\Productos\Espinaca, ricota y parmesano.jpg
-wwwroot\Imagenes\Productos\Jamon cocido y queso.jpg
-wwwroot\Imagenes\Productos\Lasagna.png
-wwwroot\Imagenes\Productos\Morron.jpg
-wwwroot\Imagenes\Productos\Ñoquis.jpg
-wwwroot\Imagenes\Productos\P. de Ternera y Espinaca.png
-wwwroot\Imagenes\Productos\Pavita y hongos (500gr).jpg
-wwwroot\Imagenes\Productos\Pavita y hongos (Gourmet).jpg
-wwwroot\Imagenes\Productos\Pavita y hongos.jpg
-wwwroot\Imagenes\Productos\Pollo y verduras.jpg
-wwwroot\Imagenes\Productos\Postre oreo.jpg
-wwwroot\Imagenes\Productos\R. de espinaca, ricota y parmesano.jpg
-wwwroot\Imagenes\Productos\Ricota y nuez (500gr).jpg
-wwwroot\Imagenes\Productos\Ricota y nuez.jpg
-wwwroot\Imagenes\Productos\S. de jamon y muzzarella.jpg
-wwwroot\Imagenes\Productos\T. al huevo.jpg
-wwwroot\Imagenes\Productos\T. de Espinaca.jpeg
-wwwroot\Imagenes\Productos\T. de Morron.webp
-wwwroot\Imagenes\Productos\Ternera y espinaca (500gr).avif
-wwwroot\Imagenes\Productos\Ternera y espinaca (500gr).jpg
-wwwroot\Imagenes\Productos\Ternera y espinaca.jpg
-wwwroot\Imagenes\Productos\Tiramisu.jpeg
-wwwroot\Imagenes\Productos\Turron de quaker.jpg
+wwwroot\Imagenes\Productos\Arroz y lentejas.jpg
+wwwroot\Imagenes\Productos\Bondiola y Mix de Vegetales (Gourmet).png
+wwwroot\Imagenes\Productos\Calabaza y Muzzarella.jpg
+wwwroot\Imagenes\Productos\Cuatro Quesos.jpg
+wwwroot\Imagenes\Productos\Espinaca, Ricota y Parmesano.jpg
+wwwroot\Imagenes\Productos\Ricota y Nuez.jpg
 wwwroot\Importaciones\0a9d9f08854345569b6b1c63193c9e7c.csv
 wwwroot\Importaciones\0da45f8865114e77b16e81d81f7bca15.csv
 wwwroot\Importaciones\0eb1b9f8d6e14ef4a101573e215b7179.csv
@@ -132,6 +109,7 @@ wwwroot\Importaciones\9f6353ee0d7c4facb53acf18501b4d8a.csv
 wwwroot\Importaciones\aaa35b5c7c544ba28117c9b2d737cf72.csv
 wwwroot\Importaciones\b96670d5cc4b4169970e9f9be53c39e1.csv
 wwwroot\Importaciones\cfcedf33dafb404ebe5740d80ae2cebd.csv
+wwwroot\Importaciones\d129a9f04d124e03ac0cbc10cdf20268.csv
 wwwroot\Importaciones\e5fdf429b7d544e4936bc71e87cac3ec.csv
 wwwroot\Importaciones\e8d3daa8e9ed46fbb4f9034a7e84aa5c.csv
 wwwroot\Importaciones\fc2d9669b63142e19467b3b7f7a5ddf5.csv

@@ -12,10 +12,10 @@
         <a class="btn btn-warning" asp-area="" asp-controller="TipoProductos" asp-action="Index">Tipo de productos</a>
     </div>
     <form asp-action="Index" method="get" class="d-flex gap-2">
-        <input placeholder="Filtrar por Nombre" type="text" name="BusqNombre" class="form-control form-control-sm"/>
-        <select name="TipoProductoId" asp-items="ViewBag.TipoProductoId" class="form-select form-select-sm">
-            <option value="" disabled selected>Tipo de producto</option>
+        <select name="TipoProductoId" asp-items="ViewBag.TipoProductoId" class="form-select" onchange="this.form.submit()">
+            <option value="" selected="@(string.IsNullOrEmpty(ViewBag.TipoProductoId?.ToString()) ? "selected" : null)">Todos los productos</option>
         </select>
+        <input placeholder="Filtrar por Nombre" type="text" name="BusqNombre" class="form-control"/>
         <input type="submit" value="Filtrar" class="btn btn-warning btn-sm" />
     </form>
     <div>
@@ -32,9 +32,6 @@
         <tr>
             <th>
                 @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Descripcion)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().tipoProductos.Tipo)
@@ -57,11 +54,8 @@
                     <td>
                             @Html.DisplayFor(modelItem => item.Nombre)
                     </td>
-                    <td style="max-width: 250px">
-                            @Html.DisplayFor(modelItem => item.Descripcion)
-                    </td>
                     <td>
-                            @Html.DisplayFor(modelItem => item.tipoProductos.Tipo)
+                        @Html.DisplayFor(modelItem => item.tipoProductos.Tipo)
                     </td>
                     <td>
                             @Html.DisplayFor(modelItem => item.Precio)
