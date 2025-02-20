@@ -830,3 +830,5 @@ C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\obj
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\obj\Debug\net9.0\Mamma_Pasta.genruntimeconfig.cache
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\obj\Debug\net9.0\ref\Mamma_Pasta.dll
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\obj\Debug\net9.0\compressed\zwx90q9bd5-rgxz1n8fiy.gz
+C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\obj\Debug\net9.0\compressed\jh467zdyet-17p9pdjmb1.gz
+C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\obj\Debug\net9.0\compressed\4hjwm64bro-z1f3u68ax1.gz

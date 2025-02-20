@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ricota y Nuez.jpg"
     },
     {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y Espinaca.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\Ternera y Espinaca.jpg"
+    },
+    {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv",
       "PackagePath": "staticwebassets\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv"
     },
@@ -125,12 +129,20 @@
       "PackagePath": "staticwebassets\\Importaciones\\fc2d9669b63142e19467b3b7f7a5ddf5.csv"
     },
     {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
     },
     {
       "Id": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\site.js",

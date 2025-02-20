@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/css/select2.min.17p9pdjmb1.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\select2.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"17p9pdjmb1"},{"Name":"integrity","Value":"sha256-zaSoHBhwFdle0scfGEFUCwggPN7F\u002Bip9XRglo8IWb4w="},{"Name":"label","Value":"_content/Mamma_Pasta/css/select2.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16264"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zaSoHBhwFdle0scfGEFUCwggPN7F\u002Bip9XRglo8IWb4w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 11:53:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/css/select2.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\select2.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zaSoHBhwFdle0scfGEFUCwggPN7F\u002Bip9XRglo8IWb4w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16264"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zaSoHBhwFdle0scfGEFUCwggPN7F\u002Bip9XRglo8IWb4w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 11:53:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -131,6 +143,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x3qk3ptuzb"},{"Name":"integrity","Value":"sha256-LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ricota y Nuez.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"69892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LfjU/uoAm1peRA1SEnlyD405SzyLoq2/wziXeaSRt34=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:11:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y Espinaca.0134jz3ihz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y Espinaca.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0134jz3ihz"},{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="},{"Name":"label","Value":"_content/Mamma_Pasta/Imagenes/Productos/Ternera y Espinaca.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:51:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Imagenes/Productos/Ternera y Espinaca.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Imagenes\Productos\Ternera y Espinaca.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32647"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rAjH11cVkWW\u002BUw6c8HLIp\u002B6qTkpyFLldM415C024/ik=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 12:51:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/Importaciones/0a9d9f08854345569b6b1c63193c9e7c.16emc1r0lp.csv">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Importaciones\0a9d9f08854345569b6b1c63193c9e7c.csv'))</AssetFile>
@@ -383,6 +407,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vq65d1cenv"},{"Name":"integrity","Value":"sha256-mT0FrchSpuypJ72FHUEs\u002B\u002BRDuWN2ygxaINz/YBdpqCI="},{"Name":"label","Value":"_content/Mamma_Pasta/Importaciones/fc2d9669b63142e19467b3b7f7a5ddf5.csv"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176"},{"Name":"Content-Type","Value":"text/csv"},{"Name":"ETag","Value":"\u0022mT0FrchSpuypJ72FHUEs\u002B\u002BRDuWN2ygxaINz/YBdpqCI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 16:30:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/js/select2.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\select2.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"73163"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 12:38:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/js/select2.min.z1f3u68ax1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\select2.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z1f3u68ax1"},{"Name":"integrity","Value":"sha256-9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA="},{"Name":"label","Value":"_content/Mamma_Pasta/js/select2.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73163"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00229yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 12:38:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Mamma_Pasta/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

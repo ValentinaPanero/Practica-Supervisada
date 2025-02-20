@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hvnu1EN6tQdggCA4WHlKgD579yGxSoLnGAcOA8jn60w=",
+  "Hash": "lc1F5XTXa4Q1f2NPSgnvQMZPkvJWptnAp1QsA+lMK7U=",
   "Source": "Mamma_Pasta",
   "BasePath": "_content/Mamma_Pasta",
   "Mode": "Default",
@@ -1613,6 +1613,27 @@
       "OriginalItemSpec": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\8a29fd3bb2eb492483dfe9d773c20771.csv"
     },
     {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\4hjwm64bro-z1f3u68ax1.gz",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "js/select2.min#[.{fingerprint=z1f3u68ax1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\select2.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9a1fcfdx8i",
+      "Integrity": "Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\select2.min.js"
+    },
+    {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\4igt4mkqhf-lh7uuh0s0g.gz",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
@@ -2955,6 +2976,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lunal\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.1\\staticwebassets\\V5\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\jh467zdyet-17p9pdjmb1.gz",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "css/select2.min#[.{fingerprint=17p9pdjmb1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\select2.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ufsbhrqc0h",
+      "Integrity": "ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\select2.min.css"
     },
     {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
@@ -4469,6 +4511,27 @@
       "OriginalItemSpec": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Mamma_Pasta.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\select2.min.css",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "css/select2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "17p9pdjmb1",
+      "Integrity": "zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\select2.min.css"
+    },
+    {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\site.css",
       "SourceId": "Mamma_Pasta",
       "SourceType": "Discovered",
@@ -4698,6 +4761,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ricota y Nuez.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y Espinaca.jpg",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "Imagenes/Productos/Ternera y Espinaca#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0134jz3ihz",
+      "Integrity": "rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Productos\\Ternera y Espinaca.jpg"
     },
     {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Importaciones\\0a9d9f08854345569b6b1c63193c9e7c.csv",
@@ -5139,6 +5223,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Importaciones\\fc2d9669b63142e19467b3b7f7a5ddf5.csv"
+    },
+    {
+      "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\select2.min.js",
+      "SourceId": "Mamma_Pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\",
+      "BasePath": "_content/Mamma_Pasta",
+      "RelativePath": "js/select2.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z1f3u68ax1",
+      "Integrity": "9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\select2.min.js"
     },
     {
       "Identity": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\site.js",
@@ -6423,6 +6528,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/select2.min.17p9pdjmb1.css",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\jh467zdyet-17p9pdjmb1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000462320851"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2162"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 11:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17p9pdjmb1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/select2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w="
+        }
+      ]
+    },
+    {
+      "Route": "css/select2.min.17p9pdjmb1.css",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 11:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17p9pdjmb1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/select2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w="
+        }
+      ]
+    },
+    {
+      "Route": "css/select2.min.17p9pdjmb1.css.gz",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\jh467zdyet-17p9pdjmb1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 11:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17p9pdjmb1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/select2.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk="
+        }
+      ]
+    },
+    {
+      "Route": "css/select2.min.css",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\jh467zdyet-17p9pdjmb1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000462320851"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2162"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 11:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w="
+        }
+      ]
+    },
+    {
+      "Route": "css/select2.min.css",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 11:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaSoHBhwFdle0scfGEFUCwggPN7F+ip9XRglo8IWb4w="
+        }
+      ]
+    },
+    {
+      "Route": "css/select2.min.css.gz",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\jh467zdyet-17p9pdjmb1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 11:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugHywPqUTSEIKcMwbWdHqW462JUAJ/cXeyH4DVpLqEk="
+        }
+      ]
+    },
     {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\3hnm0uqodo-b9sayid5wm.gz",
@@ -16363,6 +16766,88 @@
       ]
     },
     {
+      "Route": "Imagenes/Productos/Ternera y Espinaca.0134jz3ihz.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y Espinaca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 12:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0134jz3ihz"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Productos/Ternera y Espinaca.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Productos/Ternera y Espinaca.jpg",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\Imagenes\\Productos\\Ternera y Espinaca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 12:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rAjH11cVkWW+Uw6c8HLIp+6qTkpyFLldM415C024/ik="
+        }
+      ]
+    },
+    {
       "Route": "Importaciones/0a9d9f08854345569b6b1c63193c9e7c.16emc1r0lp.csv",
       "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\dbjqwdd2ba-16emc1r0lp.gz",
       "Selectors": [
@@ -22617,6 +23102,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-y2ADUKG//kCB4/Y0KGz3zQ4UELNF02w9fU3vmLtcLo4="
+        }
+      ]
+    },
+    {
+      "Route": "js/select2.min.js",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\4hjwm64bro-z1f3u68ax1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000049960032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20015"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 12:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA="
+        }
+      ]
+    },
+    {
+      "Route": "js/select2.min.js",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 12:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA="
+        }
+      ]
+    },
+    {
+      "Route": "js/select2.min.js.gz",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\4hjwm64bro-z1f3u68ax1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 12:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY="
+        }
+      ]
+    },
+    {
+      "Route": "js/select2.min.z1f3u68ax1.js",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\4hjwm64bro-z1f3u68ax1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000049960032"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20015"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 12:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1f3u68ax1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/select2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA="
+        }
+      ]
+    },
+    {
+      "Route": "js/select2.min.z1f3u68ax1.js",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\wwwroot\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 12:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1f3u68ax1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/select2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9yRP/2EFlblE92vzCA10469Ctd0jT48HnmmMw5rJZrA="
+        }
+      ]
+    },
+    {
+      "Route": "js/select2.min.z1f3u68ax1.js.gz",
+      "AssetFile": "C:\\Users\\lunal\\Desktop\\Practica Supervisada\\Practica-Supervisada\\Mamma_Pasta\\obj\\Debug\\net9.0\\compressed\\4hjwm64bro-z1f3u68ax1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 12:38:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z1f3u68ax1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/select2.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qez3UpCAV9kSj3hMfPSjnSYBbAvx5w+GAQGlNAS7ShY="
         }
       ]
     },

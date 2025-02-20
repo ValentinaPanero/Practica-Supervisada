@@ -5,6 +5,7 @@ C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\www
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\8a29fd3bb2eb492483dfe9d773c20771.csv
+C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\js\select2.min.js
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\9f6353ee0d7c4facb53acf18501b4d8a.csv
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
@@ -46,6 +47,7 @@ C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\www
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\fc2d9669b63142e19467b3b7f7a5ddf5.csv
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\css\select2.min.css
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\jquery\dist\jquery.slim.min.js
@@ -81,6 +83,7 @@ C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\www
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\0eb1b9f8d6e14ef4a101573e215b7179.csv
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 C:\Users\lunal\Desktop\Practica Supervisada\Practica-Supervisada\Mamma_Pasta\wwwroot\Importaciones\d129a9f04d124e03ac0cbc10cdf20268.csv
+wwwroot\css\select2.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\Imagenes\Icons\icons8-ajustes-24.png
@@ -92,6 +95,7 @@ wwwroot\Imagenes\Productos\Calabaza y Muzzarella.jpg
 wwwroot\Imagenes\Productos\Cuatro Quesos.jpg
 wwwroot\Imagenes\Productos\Espinaca, Ricota y Parmesano.jpg
 wwwroot\Imagenes\Productos\Ricota y Nuez.jpg
+wwwroot\Imagenes\Productos\Ternera y Espinaca.jpg
 wwwroot\Importaciones\0a9d9f08854345569b6b1c63193c9e7c.csv
 wwwroot\Importaciones\0da45f8865114e77b16e81d81f7bca15.csv
 wwwroot\Importaciones\0eb1b9f8d6e14ef4a101573e215b7179.csv
@@ -113,6 +117,7 @@ wwwroot\Importaciones\d129a9f04d124e03ac0cbc10cdf20268.csv
 wwwroot\Importaciones\e5fdf429b7d544e4936bc71e87cac3ec.csv
 wwwroot\Importaciones\e8d3daa8e9ed46fbb4f9034a7e84aa5c.csv
 wwwroot\Importaciones\fc2d9669b63142e19467b3b7f7a5ddf5.csv
+wwwroot\js\select2.min.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
