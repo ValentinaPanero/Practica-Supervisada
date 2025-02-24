@@ -36,12 +36,12 @@
             <th>
                 @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().tipoProductos.Tipo)
             </th>
-            <th>
+            <th style="text-align: right;">
                 @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Precio)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Imagen)
-            </th>            
+            @* <th> *@
+            @*     @Html.DisplayNameFor(model => model.ListProductos.FirstOrDefault().Imagen) *@
+            @* </th>             *@
             <th></th>
         </tr>
     </thead>
@@ -57,16 +57,16 @@
                     <td>
                         @Html.DisplayFor(modelItem => item.tipoProductos.Tipo)
                     </td>
-                    <td>
-                            @Html.DisplayFor(modelItem => item.Precio)
+                    <td style="text-align: right">
+                        $    @Html.DisplayFor(modelItem => item.Precio)
                     </td>
-                    <td>
-                            @if (!string.IsNullOrEmpty(@item.Imagen))
-                            {
-                            <img src="~/Imagenes/Productos/@item.Imagen" style="max-width:100px" />
-                            }
-                    </td>
-                    <td>
+                    @* <td> *@
+                    @*         @if (!string.IsNullOrEmpty(@item.Imagen)) *@
+                    @*         { *@
+                    @*         <img src="~/Imagenes/Productos/@item.Imagen" style="max-width:100px" /> *@
+                    @*         } *@
+                    @* </td> *@
+                    <td style="text-align: center">
                         <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a> |
                         <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Detalles</a> |
                         <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Borrar</a>

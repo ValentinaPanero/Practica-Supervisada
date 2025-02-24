@@ -1,12 +1,17 @@
 using System.Diagnostics;
+using Mamma_Pasta.Data;
 using Mamma_Pasta.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 
 namespace Mamma_Pasta.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -17,6 +22,7 @@ namespace Mamma_Pasta.Controllers
         {
             return View();
         }
+
 
         public IActionResult Privacy()
         {

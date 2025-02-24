@@ -13,6 +13,7 @@ using Mamma_Pasta.Migrations;
 
 namespace Mamma_Pasta.Controllers
 {
+
     public class ProductosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -23,7 +24,7 @@ namespace Mamma_Pasta.Controllers
             _context = context;
             _env = env;
         }
-        [AllowAnonymous]
+      
         // GET: Productos
         public async Task<IActionResult> Index(string BusqNombre, int? TipoProductoId, int pagina = 1)
         {

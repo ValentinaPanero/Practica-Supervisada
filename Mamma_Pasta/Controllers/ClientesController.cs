@@ -8,9 +8,11 @@ using Microsoft.EntityFrameworkCore;
 using Mamma_Pasta.Data;
 using Mamma_Pasta.Models;
 using Mamma_Pasta.Migrations;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Mamma_Pasta.Controllers
 {
+
     public class ClientesController : Controller
     {
         private readonly ApplicationDbContext _context;

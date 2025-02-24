@@ -8,9 +8,11 @@ using Microsoft.EntityFrameworkCore;
 using Mamma_Pasta.Data;
 using Mamma_Pasta.Models;
 using Newtonsoft.Json;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Mamma_Pasta.Controllers
 {
+
     public class VentasController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -25,6 +27,7 @@ namespace Mamma_Pasta.Controllers
         {
             var ventas = _context.Ventas
                           .Include(v => v.RengVentas)
+                          .Include(v => v.Clientes) // Incluir el cliente
                           .Where(v => v.Activo) // Filtrar solo ventas activas
                           .AsQueryable();
 

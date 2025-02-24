@@ -30,7 +30,10 @@
             <th>
                 @Html.DisplayNameFor(model => model.Fecha)
             </th>
-            <th>Total $</th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clientes.Nombre)
+            </th>
+            <th style ="text-align: right;">Total $</th>
             <th></th>
         </tr>
     </thead>
@@ -42,6 +45,9 @@
                     @Html.DisplayFor(modelItem => item.Fecha)
                 </td>
                 <td>
+                    @Html.DisplayFor(modelItem => item.Clientes.Nombre)
+                </td>
+                <td style ="text-align: right;">
                     @if (item.RengVentas != null)
                     {
                         <b>$ @item.RengVentas.Sum(e => e.Cantidad * e.Precio)</b>
@@ -51,7 +57,7 @@
                         <b>$ 0</b>
                     }
                 </td>
-                <td>
+                <td style="text-align: center;">
                     <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">Detalles</a> |
                     <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Borrar</a>
                 </td>

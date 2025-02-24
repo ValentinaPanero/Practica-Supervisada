@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Mamma_Pasta.Data;
 using Mamma_Pasta.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Mamma_Pasta.Controllers
 {
+
     public class TipoDePagosController : Controller
     {
         private readonly ApplicationDbContext _context;

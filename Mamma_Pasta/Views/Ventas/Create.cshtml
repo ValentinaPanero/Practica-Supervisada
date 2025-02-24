@@ -23,7 +23,9 @@
                     </div>
                     <div class="d-flex flex-column">
                         <label asp-for="clienteId" class="control-label">Cliente</label>
-                        <select asp-for="clienteId" class="form-control select2" asp-items="ViewBag.Clientes" style="min-width: 200px;"></select>
+                        <select asp-for="clienteId" class="form-control select2" asp-items="ViewBag.Clientes" style="min-width: 200px;">
+                            <option value="" selected disabled>Seleccione el Cliente</option>
+                        </select>
                     </div>
                     <input type="submit" value="Crear" class="btn btn-warning ms-auto" />
                 </div>
